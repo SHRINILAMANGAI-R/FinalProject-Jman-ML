@@ -1,0 +1,41 @@
+ROLE,TRAININGNAME,TOTAL_TRAINING_SESSIONS,"AVG_TRAINING_DURATION_HOURS","MAX_TRAINING_DURATION_HOURS","MIN_TRAINING_DURATION_HOURS",MAX_COMPLETED_MODULES
+Employee,OS,6,7.53,8.28,6.92,811
+Intern,"HTML&CSS",32,7.61,8.90,6.48,834
+Intern,SQL,39,7.57,8.77,6.53,855
+Intern,"UI Path",42,7.40,8.83,6.18,761
+Employee,"Cloud Platforms",13,7.27,8.10,6.37,835
+Employee,"Analytics & Reporting",16,7.63,8.75,6.90,772
+Intern,Typescript,23,7.34,8.37,6.03,809
+Intern,DBT,35,7.38,8.82,6.18,857
+Intern,"Analytics & Reporting",29,7.65,8.77,6.52,845
+Intern,"Git & Version Control",42,7.32,8.87,6.35,846
+Employee,"UI Path",13,7.40,8.68,6.60,858
+Employee,Javascript,11,7.03,8.28,6.17,725
+Employee,"Software Components",18,7.58,8.53,6.32,841
+Intern,Python,31,7.55,8.70,6.27,859
+Employee,ADF,13,7.26,8.37,6.10,820
+Intern,OS,33,7.50,8.58,6.15,836
+Employee,"HTML&CSS",8,7.11,8.42,6.27,716
+Intern,"Cloud Platforms",36,7.52,8.80,6.13,855
+Employee,Networking,8,7.79,8.45,6.97,735
+Intern,Networking,30,7.36,8.70,6.23,851
+Employee,Typescript,13,7.33,8.23,6.63,791
+Employee,DBT,8,7.52,8.17,6.87,859
+Employee,"Git & Version Control",10,7.11,7.62,6.63,828
+Employee,"Data Warehouse",15,7.35,8.13,6.47,859
+Employee,SQL,7,7.83,8.77,6.82,771
+Intern,QA,36,7.46,8.65,6.35,847
+Employee,Python,6,7.10,7.63,6.23,799
+Employee,"React JS",9,7.52,8.60,6.52,829
+Intern,"Power BI",34,7.70,8.58,6.28,859
+Intern,"React JS",39,7.53,8.53,6.10,818
+Intern,"Software Components",34,7.58,8.55,6.40,859
+Employee,QA,9,7.53,8.22,6.63,662
+Employee,"Web Scraping",14,7.43,8.28,6.37,859
+Intern,"Web Scraping",35,7.58,8.77,6.38,843
+Intern,Javascript,31,7.54,8.65,6.18,839
+Intern,"Data Warehouse",22,7.49,8.55,6.27,786
+Intern,"UI/UX(Figma)",35,7.56,8.72,6.27,848
+Intern,ADF,35,7.39,8.47,6.23,854
+Employee,"UI/UX(Figma)",9,7.33,8.37,6.65,846
+Employee,"Power BI",13,7.47,8.80,6.47,829

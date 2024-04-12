@@ -1,0 +1,893 @@
+id,TrainingName,TrainingDate,TrainingStartTime,TrainingEndTime,TrainerName,ScheduledBy,ScheduledTo,t_id,ModuleCompletion
+130,Typescript,19-03-2023,10:43 AM,5:12 PM,Xymenes Pauls,Junie,Intern,7,643
+380,UI/UX(Figma),29-11-2022,10:16 AM,5:19 PM,Tobie Grimsdith,Shane,Intern,14,520
+184,OS,14-11-2023,10:45 AM,5:46 PM,Beverlee Lachaize,Pavel,Intern,7,190
+702,Web Scraping,14-01-2021,9:41 AM,5:41 PM,Nita Cuniam,Natalina,Intern,8,838
+84,Javascript,03-10-2023,9:16 AM,5:50 PM,Ardis Shalders,Ola,Intern,3,753
+424,Web Scraping,07-08-2021,10:38 AM,5:48 PM,Mariam Toomey,Shelby,Intern,13,95
+168,Typescript,13-08-2021,9:44 AM,5:34 PM,Tara Bascomb,Kirstin,Intern,4,766
+626,Git & Version Control,21-11-2022,10:25 AM,5:45 PM,Jacky Muscat,Inna,Intern,2,501
+411,Analytics & Reporting,11-03-2023,9:20 AM,5:39 PM,Kalli Fearneley,Moss,Employee,1,168
+182,ADF,27-06-2021,10:25 AM,5:55 PM,Rosamund Lynnitt,Wade,Intern,8,490
+626,SQL,10-05-2021,9:37 AM,5:19 PM,Thom Coudray,Inna,Intern,2,68
+677,Git & Version Control,22-01-2021,10:23 AM,5:49 PM,Rod Douris,Ricky,Employee,16,828
+957,Python,22-10-2022,10:11 AM,5:21 PM,Frank Christmas,Devora,Intern,10,343
+650,Analytics & Reporting,01-02-2021,9:32 AM,5:32 PM,Marius Kitto,Corrina,Employee,12,53
+168,DBT,06-05-2023,10:21 AM,5:16 PM,Berni Gorghetto,Kirstin,Intern,6,341
+116,Typescript,25-01-2023,9:45 AM,5:59 PM,Darius Brabin,Eugenia,Employee,4,373
+408,Javascript,08-08-2021,9:25 AM,5:19 PM,Avril Cribbin,Shawnee,Intern,10,22
+840,React JS,04-08-2021,9:25 AM,5:11 PM,Wallis Degoix,Nicolette,Employee,11,829
+461,DBT,17-08-2021,9:24 AM,5:34 PM,Magda Dury,Antone,Employee,13,163
+272,Cloud Platforms,02-04-2023,9:21 AM,5:30 PM,Lenore Boulding,Michaelina,Intern,13,291
+449,Software Components,12-10-2021,10:04 AM,5:02 PM,Ramonda Jone,Stanly,Employee,13,232
+447,DBT,27-02-2021,9:07 AM,5:56 PM,Robby Buske,Bartholomew,Intern,11,80
+868,Software Components,27-09-2022,9:20 AM,5:40 PM,Verena Tuckie,Georgy,Intern,5,420
+677,Power BI,15-10-2022,9:15 AM,5:44 PM,Sander Fearnyhough,Ricky,Intern,6,638
+515,QA,20-03-2023,10:41 AM,5:28 PM,Dorena Fowgies,Flinn,Intern,10,784
+182,React JS,03-11-2021,10:18 AM,5:44 PM,Bettina Adamowicz,Wade,Intern,16,160
+306,Networking,29-09-2024,10:55 AM,5:30 PM,Gabi Wasiel,Andeee,Intern,12,605
+533,HTML&CSS,10-03-2021,9:49 AM,5:54 PM,Shellie Tillyer,Gretal,Intern,5,40
+957,Web Scraping,23-01-2021,9:11 AM,5:57 PM,Valeda Kilroy,Devora,Intern,7,10
+537,Networking,15-03-2021,10:08 AM,5:30 PM,Ilario Brogi,Devan,Employee,1,52
+294,UI Path,21-04-2022,10:48 AM,5:54 PM,Maggy Poynser,Gustav,Intern,8,84
+411,Software Components,24-09-2022,9:32 AM,5:57 PM,Haley Arens,Moss,Employee,17,577
+130,OS,23-11-2023,10:49 AM,5:48 PM,Christine Goolden,Junie,Intern,5,48
+509,Analytics & Reporting,13-05-2021,10:18 AM,5:51 PM,Yulma Kezourec,Paulina,Employee,3,309
+414,HTML&CSS,11-11-2022,10:27 AM,5:46 PM,Lula Haffner,Cassey,Employee,15,496
+405,Web Scraping,14-10-2023,10:08 AM,5:05 PM,Esteban Thrussell,Gardy,Intern,1,515
+988,UI/UX(Figma),01-09-2021,10:05 AM,5:05 PM,Aubrie Back,Fidela,Intern,8,822
+957,Typescript,11-08-2022,10:34 AM,5:39 PM,Linc Byer,Devora,Intern,15,672
+788,Cloud Platforms,18-11-2021,9:28 AM,5:24 PM,Cale Abba,Edi,Intern,8,569
+48,SQL,15-06-2023,10:12 AM,5:52 PM,Greg Roney,Lorenza,Intern,9,664
+408,Software Components,07-03-2021,10:51 AM,5:15 PM,Tannie Geraldez,Shawnee,Intern,16,415
+181,Git & Version Control,31-12-2021,10:55 AM,5:50 PM,Adele Reffe,Vonni,Employee,4,801
+411,Power BI,08-03-2021,9:08 AM,5:56 PM,Teresina Rzehorz,Moss,Employee,13,171
+81,React JS,02-09-2023,9:04 AM,5:06 PM,Saba Braybrookes,Germain,Intern,4,572
+240,ADF,16-12-2022,10:11 AM,5:16 PM,Wilbert Meany,Vincent,Intern,6,525
+743,QA,30-11-2023,9:13 AM,5:43 PM,Peyter Kristoffersson,Angelica,Intern,6,126
+873,Javascript,24-01-2023,10:33 AM,5:28 PM,Marcelle Ferrierio,Lynde,Employee,13,480
+501,Power BI,18-07-2021,10:31 AM,5:43 PM,Lark Greste,Paige,Intern,10,176
+411,Web Scraping,10-09-2021,9:48 AM,5:45 PM,Abbye Monini,Moss,Intern,1,480
+891,Networking,15-11-2022,10:05 AM,5:11 PM,Costanza Hatley,Winona,Intern,2,485
+261,Analytics & Reporting,29-05-2021,9:58 AM,5:51 PM,Yuma Nussgen,Gilligan,Intern,11,318
+479,React JS,27-01-2021,9:16 AM,5:47 PM,Evy Jeakins,Ki,Intern,2,180
+261,Networking,08-09-2021,10:14 AM,5:50 PM,Hatty Johnikin,Gilligan,Intern,3,117
+501,Cloud Platforms,16-10-2022,10:40 AM,5:02 PM,Elwin Rought,Paige,Employee,1,13
+59,QA,12-03-2021,10:37 AM,5:15 PM,Kristina Grugerr,Zared,Employee,13,536
+437,Git & Version Control,12-10-2023,10:51 AM,5:19 PM,Aluino Graddell,Ebba,Intern,8,128
+168,React JS,27-04-2021,9:25 AM,5:47 PM,Alexandre Willowby,Kirstin,Intern,12,69
+84,React JS,11-11-2021,10:27 AM,5:05 PM,Sofia Durston,Ola,Employee,7,716
+260,Analytics & Reporting,01-04-2021,10:00 AM,5:43 PM,Yalonda Youens,Kermie,Intern,6,216
+39,Analytics & Reporting,27-06-2022,9:07 AM,5:38 PM,Bel Mapstone,Maurene,Intern,11,461
+505,Javascript,28-01-2024,9:46 AM,5:57 PM,Teriann Broske,Marylou,Intern,5,790
+197,Power BI,07-09-2021,9:38 AM,5:53 PM,Jeffrey McCane,Maryl,Employee,17,533
+605,React JS,28-06-2023,10:09 AM,5:40 PM,Isac Quigg,Manfred,Employee,4,663
+996,UI Path,12-12-2021,9:12 AM,5:42 PM,Derrik Thrasher,Colene,Intern,3,292
+168,DBT,08-01-2023,9:42 AM,5:06 PM,Belvia Raw,Kirstin,Intern,6,785
+559,Software Components,19-06-2022,9:33 AM,5:27 PM,Etan Elldred,Leonardo,Intern,7,685
+32,DBT,07-03-2023,9:14 AM,5:35 PM,Tove Bompass,Kristo,Intern,7,471
+181,Javascript,18-05-2021,10:56 AM,5:06 PM,Creight Lardner,Vonni,Employee,6,235
+652,Analytics & Reporting,06-09-2022,9:25 AM,5:14 PM,Alford Pothergill,Jourdan,Intern,8,542
+424,Web Scraping,29-12-2022,9:57 AM,5:54 PM,Lonnard Locard,Shelby,Intern,4,525
+462,DBT,09-09-2022,9:06 AM,5:51 PM,Flori Kellock,Ferdinanda,Intern,6,281
+988,QA,17-09-2021,10:57 AM,5:49 PM,Donny Albasini,Fidela,Intern,7,687
+224,Software Components,15-01-2023,10:51 AM,5:21 PM,Trumaine Willcot,Coraline,Intern,15,606
+285,UI/UX(Figma),22-12-2023,9:41 AM,5:32 PM,Henryetta Dodson,Antonietta,Intern,17,387
+702,ADF,09-10-2022,9:51 AM,5:30 PM,Bonita Dickons,Natalina,Employee,10,257
+72,Python,16-02-2023,10:48 AM,5:38 PM,Aili Filipov,Kurt,Intern,6,701
+969,Web Scraping,30-08-2022,10:04 AM,5:45 PM,Donny Ghirigori,Des,Intern,2,246
+364,Typescript,31-03-2021,10:51 AM,5:32 PM,Romeo Lemery,Carmelina,Employee,14,508
+627,Git & Version Control,15-05-2023,9:27 AM,5:03 PM,Myca Keddey,Maryellen,Intern,6,680
+626,Networking,06-01-2023,9:45 AM,5:30 PM,Wilfred Gasquoine,Inna,Intern,14,782
+902,HTML&CSS,17-06-2022,9:20 AM,5:42 PM,Orton Kleinstein,Maureen,Intern,4,676
+299,Python,22-07-2021,9:01 AM,5:21 PM,Marilee O'Fogarty,Sallyanne,Intern,1,248
+777,ADF,31-10-2023,10:58 AM,5:18 PM,Douglas Godfroy,Ronni,Intern,12,297
+969,UI/UX(Figma),03-02-2023,9:35 AM,5:08 PM,Randy Loyndon,Des,Intern,10,342
+645,Python,06-05-2022,9:00 AM,5:20 PM,Jabez Legges,Evelin,Intern,6,304
+605,ADF,08-07-2023,10:06 AM,5:07 PM,Dionisio Kilgrove,Manfred,Intern,4,166
+232,Power BI,22-06-2022,10:06 AM,5:01 PM,Danyette Aynold,Haroun,Employee,9,747
+447,Cloud Platforms,24-04-2022,9:40 AM,5:00 PM,Charin Muge,Bartholomew,Intern,14,220
+921,Python,07-04-2023,9:11 AM,5:36 PM,Elihu De Castri,Courtenay,Intern,8,293
+743,HTML&CSS,22-02-2023,9:17 AM,5:34 PM,Lindsey Harkins,Angelica,Intern,13,669
+48,Software Components,18-11-2022,10:07 AM,5:43 PM,Roxy Fitzroy,Lorenza,Employee,2,245
+933,DBT,12-05-2023,10:07 AM,5:04 PM,Kacy Linch,Marnia,Intern,3,817
+559,Typescript,21-09-2022,9:36 AM,5:47 PM,Michael Hakonsen,Leonardo,Intern,12,148
+479,Git & Version Control,24-06-2022,10:26 AM,5:13 PM,Margie Waplington,Ki,Intern,12,498
+221,Software Components,13-06-2021,9:01 AM,5:34 PM,Beau Cobbold,Matias,Intern,14,540
+902,Web Scraping,23-08-2022,9:30 AM,5:54 PM,Lanie Drewet,Maureen,Intern,4,52
+908,Git & Version Control,21-02-2021,10:33 AM,5:17 PM,Marchall Challenger,Sonny,Intern,16,4
+996,Python,25-08-2022,9:35 AM,5:34 PM,Remington Spatari,Colene,Intern,17,836
+272,DBT,14-02-2023,9:46 AM,5:04 PM,Peria Maybery,Michaelina,Intern,11,748
+424,ADF,18-10-2021,10:56 AM,5:59 PM,Kaitlyn Huddleston,Shelby,Intern,12,783
+39,QA,22-08-2023,9:58 AM,5:52 PM,Erasmus MacSkeagan,Maurene,Intern,2,807
+611,Networking,31-01-2023,10:17 AM,5:53 PM,Nataline Balloch,Ewen,Intern,12,113
+645,QA,30-09-2022,10:53 AM,5:23 PM,Angelique Scruby,Evelin,Intern,2,152
+509,React JS,06-07-2023,9:16 AM,5:02 PM,Reade Cool,Paulina,Intern,13,18
+406,Web Scraping,26-07-2022,9:13 AM,5:52 PM,Filberto Culkin,Guillaume,Intern,12,364
+380,Power BI,06-01-2024,10:04 AM,5:35 PM,Orsa Gildea,Shane,Employee,15,71
+461,Git & Version Control,20-09-2022,9:03 AM,5:55 PM,Gwenora Persence,Antone,Intern,4,846
+652,Git & Version Control,31-12-2022,9:38 AM,5:21 PM,Julee Buddell,Jourdan,Intern,7,578
+775,Python,04-09-2023,9:34 AM,5:20 PM,Mercie Harpin,Elisabetta,Intern,6,506
+962,ADF,06-12-2022,9:46 AM,5:21 PM,Nisse Medhurst,Jania,Intern,9,494
+497,DBT,17-01-2021,9:54 AM,5:30 PM,Fan Smolan,Mattias,Intern,17,90
+613,OS,11-06-2023,10:27 AM,5:52 PM,Antonietta Coopland,Berky,Employee,2,811
+777,UI Path,30-07-2021,10:36 AM,5:06 PM,Jacinta Donhardt,Ronni,Intern,13,349
+182,UI Path,13-12-2022,9:47 AM,5:36 PM,Lesli Fido,Wade,Intern,8,761
+54,Analytics & Reporting,26-09-2023,10:07 AM,5:27 PM,Ebonee Sibthorp,Kaela,Intern,16,146
+116,UI/UX(Figma),26-10-2022,9:17 AM,5:27 PM,Randie Farrear,Eugenia,Intern,12,226
+19,OS,16-01-2024,10:13 AM,5:28 PM,Anders Mewton,Nils,Employee,9,188
+406,Cloud Platforms,17-02-2021,10:25 AM,5:40 PM,Julius Dullard,Guillaume,Intern,4,826
+997,Git & Version Control,06-06-2021,9:27 AM,5:00 PM,Aurlie Colloff,,Intern,12,573
+81,QA,30-12-2022,9:49 AM,5:05 PM,Allyn Lanahan,Germain,Intern,15,370
+506,Power BI,24-12-2022,9:47 AM,5:13 PM,Dunn MacNish,Hunfredo,Intern,13,361
+868,HTML&CSS,19-04-2023,10:34 AM,5:12 PM,Libbi Ranscombe,Georgy,Intern,16,783
+84,SQL,29-07-2021,9:46 AM,5:08 PM,Willamina Rigard,Ola,Intern,16,266
+380,Software Components,07-01-2021,9:49 AM,5:03 PM,Arielle Brennand,Shane,Intern,1,784
+260,UI Path,23-12-2023,10:38 AM,5:05 PM,Brigid Pettingall,Kermie,Intern,3,89
+474,Software Components,05-11-2021,9:29 AM,5:40 PM,Erl Gwinnett,Nonah,Intern,12,529
+182,Analytics & Reporting,10-11-2021,10:28 AM,5:27 PM,Jamie Eykel,Wade,Employee,14,230
+995,Software Components,14-08-2021,10:44 AM,5:53 PM,Ervin Liebmann,Loren,Intern,8,94
+197,Networking,24-02-2021,9:45 AM,5:03 PM,Fionna Gray,Maryl,Intern,17,287
+645,React JS,23-02-2021,9:08 AM,5:11 PM,Ariana Davsley,Evelin,Employee,4,731
+650,Git & Version Control,22-02-2024,10:54 AM,5:45 PM,Brianne Davoren,Corrina,Employee,9,688
+55,Power BI,05-11-2023,9:26 AM,5:24 PM,Lida Bools,Nicky,Intern,13,287
+611,DBT,29-12-2023,10:55 AM,5:06 PM,Anson Belshaw,Ewen,Intern,9,596
+162,Cloud Platforms,11-02-2021,10:45 AM,5:28 PM,Oswell Allsebrook,Bax,Intern,6,647
+559,React JS,09-01-2024,9:51 AM,5:37 PM,Julianna Cessford,Leonardo,Intern,15,184
+964,Python,26-04-2022,10:01 AM,5:51 PM,Vin Eck,Thorin,Intern,11,126
+509,Python,07-07-2022,10:51 AM,5:57 PM,Salomone Pownall,Paulina,Intern,7,223
+197,DBT,10-07-2023,9:59 AM,5:37 PM,Kikelia Sealeaf,Maryl,Employee,3,505
+962,Software Components,02-11-2022,10:43 AM,5:21 PM,Bartholemy Haylock,Jania,Intern,11,373
+317,HTML&CSS,07-10-2022,10:51 AM,5:07 PM,Glynnis Rocca,Steffie,Employee,6,687
+968,SQL,14-09-2021,9:10 AM,5:16 PM,Yoshi Peyntue,Cindie,Intern,8,77
+193,Cloud Platforms,18-10-2022,10:49 AM,5:17 PM,Leia Allam,Gertrudis,Intern,9,617
+284,QA,22-09-2022,10:58 AM,5:34 PM,Mikol Gatheral,Christoforo,Intern,8,387
+997,React JS,29-01-2024,10:40 AM,5:07 PM,Lilyan Rumney,,Intern,1,642
+788,QA,27-07-2023,10:59 AM,5:25 PM,Allan Vaud,Edi,Intern,10,304
+925,Typescript,28-03-2024,10:12 AM,5:55 PM,Rhona Cartin,Audrye,Intern,16,720
+777,Power BI,25-01-2021,10:32 AM,5:00 PM,Trixi Alexandrou,Ronni,Employee,10,748
+155,Python,07-11-2021,10:00 AM,5:52 PM,Salomo Calvard,Kyla,Intern,13,656
+447,UI Path,12-04-2022,10:41 AM,5:58 PM,Gerek Winslade,Bartholomew,Employee,14,424
+626,ADF,12-04-2023,10:23 AM,5:43 PM,Lenka Blesli,Inna,Intern,6,593
+380,UI Path,07-12-2022,9:55 AM,5:35 PM,Bo Gynne,Shane,Intern,17,604
+19,HTML&CSS,17-02-2023,10:30 AM,5:08 PM,Hinda Wasylkiewicz,Nils,Intern,15,819
+462,React JS,08-07-2022,9:13 AM,5:12 PM,Collin Shaw,Ferdinanda,Employee,13,44
+50,Python,06-09-2023,9:11 AM,5:53 PM,Charmion Monkley,Johnette,Intern,17,433
+155,UI/UX(Figma),13-02-2021,9:07 AM,5:50 PM,Cherilyn Extill,Kyla,Intern,10,110
+662,QA,03-10-2022,9:20 AM,5:37 PM,Amara Minter,Peirce,Intern,8,371
+493,QA,15-05-2022,9:48 AM,5:08 PM,Blair Howells,Radcliffe,Intern,12,482
+19,SQL,31-03-2024,10:36 AM,5:58 PM,Fanni Ivanchov,Nils,Intern,5,40
+827,OS,26-05-2022,9:04 AM,5:39 PM,Olly Scandroot,Cortie,Intern,9,836
+743,Analytics & Reporting,20-01-2021,9:34 AM,5:20 PM,Krishna Raimbauld,Angelica,Employee,3,591
+405,UI Path,08-05-2024,9:12 AM,5:49 PM,Lizzy Menaul,Gardy,Intern,5,280
+232,Cloud Platforms,20-08-2023,10:12 AM,5:13 PM,Chelsie Di Baudi,Haroun,Intern,2,278
+788,UI/UX(Figma),21-12-2022,9:27 AM,5:03 PM,Fabian Castagna,Edi,Intern,5,838
+908,QA,07-02-2021,9:15 AM,5:45 PM,Ugo Husthwaite,Sonny,Intern,9,3
+284,HTML&CSS,28-05-2022,9:48 AM,5:26 PM,Hyacintha Weedon,Christoforo,Intern,6,510
+650,Analytics & Reporting,15-07-2022,9:10 AM,5:19 PM,Fletcher Brusby,Corrina,Intern,10,769
+821,OS,18-09-2024,9:33 AM,5:58 PM,Clywd Ingerson,Jackqueline,Intern,17,121
+59,React JS,05-05-2021,10:20 AM,5:16 PM,Emmaline Eyer,Zared,Intern,4,271
+443,ADF,30-12-2023,9:28 AM,5:19 PM,Dawna Bernardini,Elayne,Intern,16,630
+996,Power BI,13-01-2021,9:12 AM,5:44 PM,Violet Dockrey,Colene,Employee,13,566
+396,Javascript,02-05-2023,10:56 AM,5:22 PM,Berk Gudyer,Hernando,Employee,17,350
+232,ADF,22-03-2021,9:33 AM,5:08 PM,Rourke Sherville,Haroun,Intern,4,463
+707,Git & Version Control,17-11-2021,10:54 AM,5:56 PM,Demetrius Mathiassen,Mathe,Intern,7,26
+200,Javascript,17-04-2023,10:14 AM,5:01 PM,Leigha Kalinowsky,Libbey,Intern,6,541
+650,UI Path,06-12-2023,9:04 AM,5:08 PM,Liuka Stobart,Corrina,Employee,8,347
+509,Power BI,20-06-2021,10:44 AM,5:01 PM,Colet Blazi,Paulina,Intern,3,643
+48,DBT,15-12-2022,9:38 AM,5:26 PM,Lucky Maydway,Lorenza,Intern,8,520
+515,Typescript,10-06-2021,10:43 AM,5:25 PM,Bonnibelle Barnard,Flinn,Employee,16,333
+75,Git & Version Control,03-03-2021,10:06 AM,5:13 PM,Meyer Wyche,Jaime,Intern,17,49
+995,UI/UX(Figma),25-07-2023,9:39 AM,5:31 PM,Barby Dwire,Loren,Intern,4,47
+627,React JS,02-12-2022,10:56 AM,5:14 PM,Jerry Trasler,Maryellen,Intern,15,596
+925,Power BI,10-10-2021,9:37 AM,5:07 PM,Samson Haldin,Audrye,Intern,13,859
+607,SQL,03-07-2023,10:02 AM,5:09 PM,Katharine Warboy,Fletcher,Intern,6,825
+408,Software Components,08-06-2023,9:44 AM,5:49 PM,Luke Dewbury,Shawnee,Employee,7,664
+224,UI/UX(Figma),07-12-2023,10:50 AM,5:42 PM,Modestia Maysor,Coraline,Employee,5,294
+333,React JS,19-10-2022,9:17 AM,5:31 PM,Bentlee Eslemont,Rina,Intern,1,750
+868,OS,17-01-2024,10:08 AM,5:37 PM,Earlie Steventon,Georgy,Intern,13,681
+674,Javascript,12-12-2023,10:52 AM,5:12 PM,Fielding Savil,Lorie,Intern,7,374
+463,ADF,08-08-2023,9:03 AM,5:31 PM,Marlin Gaskoin,Toiboid,Intern,8,597
+81,Python,16-11-2022,10:05 AM,5:43 PM,Kylen Scotting,Germain,Employee,13,485
+423,Typescript,15-05-2021,10:14 AM,5:56 PM,Ryon Gasgarth,Mildrid,Intern,16,737
+969,Data Warehouse,02-08-2022,10:45 AM,5:22 PM,Sherill Sussems,Des,Employee,4,352
+359,QA,24-02-2023,10:33 AM,5:46 PM,Mercy Lagen,Staford,Intern,11,613
+868,Git & Version Control,05-04-2021,10:16 AM,5:32 PM,Randi Sumsion,Georgy,Intern,12,66
+497,Typescript,26-08-2022,9:28 AM,5:09 PM,Hyman O'Farrell,Mattias,Employee,16,570
+200,Typescript,23-03-2021,9:18 AM,5:08 PM,Sofia Bawden,Libbey,Intern,3,703
+261,Javascript,11-01-2024,10:20 AM,5:23 PM,Alfie Kopec,Gilligan,Intern,1,429
+84,OS,21-10-2023,9:17 AM,5:48 PM,Sorcha O'Doohaine,Ola,Intern,8,218
+79,Networking,20-01-2023,9:16 AM,5:21 PM,Clay Collyns,Leonie,Intern,12,324
+83,Cloud Platforms,21-09-2023,9:14 AM,5:42 PM,Margarette Coatsworth,Riley,Intern,2,652
+449,HTML&CSS,28-04-2022,10:11 AM,5:41 PM,Skipton Hitcham,Stanly,Intern,7,308
+232,HTML&CSS,05-09-2021,9:12 AM,5:37 PM,Bertram Agiolfinger,Haroun,Employee,2,716
+324,ADF,05-06-2021,10:41 AM,5:08 PM,Irena Churches,Patricia,Intern,1,192
+50,Javascript,06-11-2022,9:28 AM,5:21 PM,Genvieve Ocheltree,Johnette,Intern,12,50
+200,SQL,12-11-2022,9:24 AM,5:53 PM,Paco Kirwin,Libbey,Intern,3,820
+364,HTML&CSS,08-12-2023,9:56 AM,5:29 PM,Debbi Lightbowne,Carmelina,Intern,3,752
+32,UI Path,08-05-2022,10:42 AM,5:01 PM,Otho Jobin,Kristo,Intern,7,603
+497,Web Scraping,07-02-2024,9:01 AM,5:42 PM,Christoph Rowlstone,Mattias,Intern,6,120
+462,UI Path,18-12-2021,9:47 AM,5:42 PM,Zandra Churchouse,Ferdinanda,Intern,11,473
+182,Python,20-10-2023,10:11 AM,5:09 PM,Rafael Herche,Wade,Intern,6,354
+423,UI/UX(Figma),10-11-2023,10:45 AM,5:36 PM,Liv Villaron,Mildrid,Intern,15,120
+193,Git & Version Control,21-02-2023,10:25 AM,5:39 PM,Maximilianus Stellino,Gertrudis,Intern,16,481
+54,Data Warehouse,18-08-2021,10:11 AM,5:02 PM,Nestor Dybald,Kaela,Intern,7,597
+942,QA,10-12-2021,10:08 AM,5:10 PM,Chanda Beetlestone,Haskell,Intern,12,422
+497,Git & Version Control,06-08-2021,10:22 AM,5:17 PM,Lauree Brou,Mattias,Employee,9,470
+380,Cloud Platforms,31-07-2023,9:09 AM,5:52 PM,Leonelle Kinghorn,Shane,Intern,1,719
+788,Git & Version Control,20-04-2023,9:23 AM,5:12 PM,Esther Geeves,Edi,Intern,6,582
+158,DBT,06-10-2022,10:39 AM,5:19 PM,Joseito Rowter,Filberto,Intern,6,479
+890,Power BI,13-04-2022,9:43 AM,5:43 PM,Christi Scain,Stephana,Intern,17,624
+414,HTML&CSS,08-05-2021,9:31 AM,5:34 PM,Jesus Pershouse,Cassey,Intern,13,164
+988,OS,27-01-2023,9:23 AM,5:19 PM,Bald Stife,Fidela,Intern,3,259
+81,Javascript,26-05-2021,10:52 AM,5:03 PM,Emilio Shepherdson,Germain,Intern,13,540
+311,ADF,11-07-2021,10:40 AM,5:09 PM,Ursulina Barr,Burk,Intern,11,338
+182,Javascript,26-04-2021,9:40 AM,5:57 PM,Hal Hanna,Wade,Employee,7,68
+84,Typescript,05-03-2021,9:05 AM,5:20 PM,Del Eustace,Ola,Intern,3,668
+70,Web Scraping,01-06-2024,10:42 AM,5:25 PM,Roxy Espinay,Emalee,Intern,4,818
+868,Cloud Platforms,05-05-2024,9:43 AM,5:11 PM,Becka Maccrie,Georgy,Intern,5,525
+707,Software Components,26-06-2021,9:59 AM,5:56 PM,Harriot Whooley,Mathe,Intern,7,125
+72,DBT,06-03-2023,10:24 AM,5:27 PM,Romain Saunder,Kurt,Intern,17,79
+130,Software Components,10-12-2022,9:29 AM,5:49 PM,Lisetta Caldroni,Junie,Intern,13,331
+988,Analytics & Reporting,07-05-2022,9:55 AM,5:02 PM,Ansel Branca,Fidela,Intern,10,745
+505,UI/UX(Figma),01-01-2024,10:35 AM,5:58 PM,Paquito Patise,Marylou,Employee,12,331
+506,Typescript,15-10-2023,10:44 AM,5:55 PM,Gaylene Ecclestone,Hunfredo,Intern,7,809
+424,Web Scraping,17-08-2022,9:25 AM,5:39 PM,Francis Custed,Shelby,Intern,7,65
+889,Data Warehouse,17-01-2023,9:11 AM,5:44 PM,Carmella Vest,Rosamund,Intern,13,768
+792,React JS,23-03-2024,10:38 AM,5:34 PM,Kurt Roseveare,Alexa,Intern,3,194
+224,Analytics & Reporting,07-02-2023,10:23 AM,5:19 PM,Karlyn Hachard,Coraline,Intern,11,752
+299,ADF,10-04-2021,10:04 AM,5:00 PM,Dacie Gasken,Sallyanne,Employee,7,99
+333,React JS,12-07-2021,9:36 AM,5:55 PM,Ashely Harlett,Rina,Intern,9,516
+605,DBT,01-11-2022,10:32 AM,5:04 PM,Lucy Phair,Manfred,Intern,8,814
+474,Python,18-09-2021,9:56 AM,5:01 PM,Cosme Seebright,Nonah,Intern,8,154
+898,Cloud Platforms,07-05-2021,10:29 AM,5:33 PM,Babs Guerola,Grady,Intern,3,193
+898,Data Warehouse,11-01-2021,9:45 AM,5:02 PM,Derk Carmont,Grady,Employee,6,859
+909,Data Warehouse,11-12-2022,10:18 AM,5:48 PM,Merle Piechnik,Jessica,Employee,16,39
+777,Cloud Platforms,31-05-2022,10:30 AM,5:32 PM,Arlie Youd,Ronni,Employee,14,273
+627,UI/UX(Figma),19-12-2024,9:00 AM,5:06 PM,Benjie Mixture,Maryellen,Intern,11,179
+627,UI/UX(Figma),24-10-2022,9:01 AM,5:39 PM,Karlie Yabsley,Maryellen,Intern,15,563
+827,ADF,13-10-2021,10:44 AM,5:13 PM,Horatius Fowles,Cortie,Intern,6,206
+968,Power BI,08-02-2023,9:37 AM,5:46 PM,Stanislaus Murrhardt,Cindie,Intern,9,108
+116,Git & Version Control,03-10-2024,10:27 AM,5:04 PM,Hester Goroni,Eugenia,Intern,6,533
+898,UI/UX(Figma),09-05-2022,10:06 AM,5:27 PM,Philippa Hambric,Grady,Intern,4,802
+200,HTML&CSS,03-11-2022,9:10 AM,5:04 PM,Octavia Bouchard,Libbey,Intern,15,255
+777,Networking,09-09-2021,9:49 AM,5:31 PM,Tana Merrigan,Ronni,Intern,11,454
+193,Power BI,28-07-2023,10:16 AM,5:19 PM,Stern Skevington,Gertrudis,Intern,4,463
+224,HTML&CSS,10-10-2023,9:05 AM,5:16 PM,Valry Wolvey,Coraline,Intern,13,571
+443,Python,21-04-2024,10:24 AM,5:57 PM,Teodor Waycott,Elayne,Employee,15,532
+797,Javascript,22-05-2022,10:58 AM,5:28 PM,Tomas Wickwar,Belle,Employee,6,647
+324,React JS,29-04-2023,10:59 AM,5:59 PM,Charmain Rhelton,Patricia,Employee,4,418
+424,SQL,05-12-2023,9:07 AM,5:08 PM,Brunhilde Wedderburn,Shelby,Intern,9,648
+171,UI/UX(Figma),17-09-2023,9:58 AM,5:12 PM,Keary Salle,Carma,Intern,17,699
+827,QA,12-01-2021,9:07 AM,5:07 PM,Isabella Huriche,Cortie,Employee,11,512
+537,Javascript,14-09-2022,9:33 AM,5:46 PM,Inesita Matthiesen,Devan,Intern,17,141
+497,ADF,13-10-2022,10:18 AM,5:45 PM,Nadya Martynikhin,Mattias,Intern,1,265
+841,UI Path,29-09-2022,9:25 AM,5:31 PM,Colette Warrior,Jobye,Intern,16,267
+997,Analytics & Reporting,25-02-2023,9:06 AM,5:52 PM,Dorey Rignall,,Intern,16,775
+260,QA,18-10-2023,9:43 AM,5:05 PM,Daryle Farahar,Kermie,Intern,15,528
+463,Python,10-08-2023,10:47 AM,5:03 PM,Ode Bagworth,Toiboid,Intern,1,758
+224,Web Scraping,20-06-2023,9:41 AM,5:50 PM,Fredra Lorentz,Coraline,Intern,16,787
+232,ADF,19-10-2023,10:55 AM,5:12 PM,Hartwell Trinbey,Haroun,Intern,15,204
+474,Power BI,04-07-2022,10:34 AM,5:14 PM,Hailey Batistelli,Nonah,Intern,2,607
+952,Python,13-04-2024,9:08 AM,5:43 PM,Alvina Killwick,Angel,Intern,9,736
+50,SQL,25-12-2022,10:55 AM,5:41 PM,Benedetto Collyns,Johnette,Intern,12,235
+260,Cloud Platforms,17-03-2024,10:56 AM,5:24 PM,Thea Joncic,Kermie,Employee,15,453
+284,Cloud Platforms,17-10-2024,9:09 AM,5:43 PM,Bette Nisot,Christoforo,Intern,14,298
+182,SQL,10-03-2023,9:39 AM,5:55 PM,Ramon Wildman,Wade,Intern,9,683
+902,Data Warehouse,27-11-2021,10:41 AM,5:46 PM,Lissi Milkins,Maureen,Employee,15,36
+423,OS,07-10-2023,9:56 AM,5:45 PM,Holt Huws,Mildrid,Intern,10,824
+474,Python,04-07-2023,10:46 AM,5:39 PM,Mar Corkell,Nonah,Employee,14,799
+168,Analytics & Reporting,01-12-2023,10:05 AM,5:02 PM,Leonelle MacMenamin,Kirstin,Intern,10,215
+285,Cloud Platforms,18-04-2024,10:07 AM,5:41 PM,Quill Ludron,Antonietta,Intern,3,333
+515,OS,13-10-2023,10:14 AM,5:45 PM,Levin Kleine,Flinn,Intern,1,23
+933,UI/UX(Figma),26-03-2024,10:24 AM,5:12 PM,Oliy Gitthouse,Marnia,Intern,17,841
+50,ADF,02-10-2021,9:53 AM,5:17 PM,Kass Splain,Johnette,Employee,15,595
+272,Typescript,17-06-2021,9:45 AM,5:22 PM,Lelia Gouldthorp,Michaelina,Intern,3,298
+827,Data Warehouse,16-06-2022,9:31 AM,5:56 PM,Rosa Sharnock,Cortie,Intern,12,35
+396,Javascript,31-12-2023,9:37 AM,5:24 PM,Cristi Aistrop,Hernando,Intern,6,305
+777,Python,29-07-2022,9:58 AM,5:15 PM,Sal Shorto,Ronni,Intern,4,833
+501,DBT,25-04-2021,10:53 AM,5:14 PM,Maria Kleynermans,Paige,Intern,3,628
+462,OS,24-01-2024,9:05 AM,5:20 PM,Darsie Snelgar,Ferdinanda,Intern,5,660
+898,HTML&CSS,26-02-2023,9:05 AM,5:59 PM,Cliff Scotchbourouge,Grady,Intern,1,114
+891,React JS,24-05-2021,10:51 AM,5:30 PM,Nefen Deathridge,Winona,Intern,16,311
+261,Typescript,26-08-2023,9:01 AM,5:23 PM,Lenore Pinniger,Gilligan,Intern,9,121
+509,ADF,18-04-2023,10:56 AM,5:12 PM,Dev Ferris,Paulina,Intern,17,688
+168,Power BI,10-02-2023,9:59 AM,5:22 PM,Rafferty Prettjohn,Kirstin,Employee,12,480
+899,Git & Version Control,03-08-2021,10:03 AM,5:21 PM,Belita Barthrop,Fergus,Employee,2,65
+797,QA,04-11-2023,10:33 AM,5:05 PM,Tandy Di Meo,Belle,Intern,6,179
+380,Analytics & Reporting,25-03-2021,10:29 AM,5:54 PM,Ravi enzley,Shane,Intern,14,121
+479,Web Scraping,29-08-2022,10:21 AM,5:24 PM,Dolf Hammerich,Ki,Intern,2,530
+79,UI Path,17-06-2024,10:42 AM,5:05 PM,Merrile Delieu,Leonie,Intern,6,532
+968,React JS,03-05-2024,10:20 AM,5:20 PM,Kore Riccelli,Cindie,Intern,5,567
+605,React JS,21-08-2022,9:09 AM,5:41 PM,Wolfgang Gustus,Manfred,Intern,15,805
+424,Typescript,15-01-2024,10:58 AM,5:00 PM,Nadean Pudney,Shelby,Intern,15,372
+55,Cloud Platforms,01-11-2023,10:49 AM,5:40 PM,Meredithe Charley,Nicky,Intern,8,855
+437,Networking,23-09-2023,10:14 AM,5:57 PM,Janice Dugald,Ebba,Intern,9,691
+638,ADF,20-02-2023,10:20 AM,5:53 PM,Florry Duckit,Euell,Intern,14,810
+240,UI Path,03-08-2023,9:03 AM,5:53 PM,Emile Ballendine,Vincent,Intern,14,369
+55,Data Warehouse,04-02-2021,9:10 AM,5:09 PM,Willette Prettyjohns,Nicky,Intern,6,776
+463,Typescript,21-06-2022,9:16 AM,5:09 PM,Andie O' Finan,Toiboid,Employee,3,765
+942,SQL,01-08-2023,10:38 AM,5:46 PM,Odey Degoix,Haskell,Intern,9,470
+408,QA,03-01-2024,10:58 AM,5:57 PM,Gerda Denisovich,Shawnee,Intern,14,813
+272,Analytics & Reporting,16-05-2022,9:05 AM,5:29 PM,Phip Rodolico,Michaelina,Employee,14,340
+130,Git & Version Control,31-07-2022,9:30 AM,5:17 PM,Lacie Henrichs,Junie,Intern,17,21
+182,React JS,19-09-2023,10:59 AM,5:05 PM,Martynne Jeandin,Wade,Intern,2,818
+964,Software Components,08-11-2023,9:36 AM,5:20 PM,Lisbeth Heaslip,Thorin,Intern,8,82
+952,ADF,18-05-2023,9:47 AM,5:04 PM,Tallou Ducrow,Angel,Intern,5,233
+514,Web Scraping,26-05-2024,9:07 AM,5:30 PM,Kip Hartil,Vevay,Intern,11,734
+890,ADF,13-03-2023,9:15 AM,5:14 PM,Nerti Vasichev,Stephana,Intern,14,684
+493,Data Warehouse,18-03-2024,9:48 AM,5:05 PM,Lucretia Jeannesson,Radcliffe,Intern,5,184
+59,Javascript,05-03-2023,9:17 AM,5:33 PM,Ezekiel Pietruschka,Zared,Intern,16,292
+889,Javascript,24-08-2023,10:20 AM,5:12 PM,Stillman Juanes,Rosamund,Employee,16,725
+479,Typescript,22-08-2022,9:37 AM,5:04 PM,Charmane Gridley,Ki,Employee,13,407
+943,Git & Version Control,27-01-2024,10:55 AM,5:28 PM,Osbourne Gaudon,Traci,Intern,3,633
+414,Software Components,25-03-2023,10:17 AM,5:15 PM,Delinda Bridel,Cassey,Intern,8,788
+650,Data Warehouse,24-11-2022,9:29 AM,5:23 PM,Sibylle Son,Corrina,Employee,1,631
+533,Power BI,07-01-2023,9:27 AM,5:41 PM,Flori Twelvetree,Gretal,Intern,5,247
+171,Analytics & Reporting,07-05-2023,10:53 AM,5:47 PM,Peyter Kubach,Carma,Employee,16,412
+359,Data Warehouse,07-11-2022,10:53 AM,5:59 PM,Cory Scatchar,Staford,Intern,14,588
+509,Python,03-01-2023,10:29 AM,5:08 PM,Addy Stepto,Paulina,Intern,5,798
+461,Cloud Platforms,05-10-2023,10:51 AM,5:58 PM,Balduin Cakebread,Antone,Intern,8,763
+873,QA,23-04-2023,9:15 AM,5:28 PM,Seth Alvaro,Lynde,Employee,4,257
+116,UI Path,28-09-2022,10:28 AM,5:04 PM,Rollins Bartlomiejczyk,Eugenia,Employee,5,330
+605,Power BI,04-04-2024,9:19 AM,5:20 PM,Pail Luce,Manfred,Employee,3,484
+79,HTML&CSS,06-10-2023,10:06 AM,5:20 PM,Aldrich Pavia,Leonie,Intern,3,470
+232,Python,28-02-2024,10:21 AM,5:33 PM,Rosaline Powlett,Haroun,Intern,13,851
+638,Data Warehouse,26-12-2023,10:20 AM,5:03 PM,Inger Collinette,Euell,Intern,10,49
+260,OS,30-05-2024,10:18 AM,5:02 PM,Alyda Pencost,Kermie,Intern,3,155
+925,QA,29-02-2024,10:04 AM,5:20 PM,Dorris Bartoletti,Audrye,Employee,2,36
+982,Typescript,15-04-2023,10:57 AM,5:35 PM,Garret Grieswood,Tait,Employee,17,132
+902,Python,17-06-2023,10:11 AM,5:55 PM,Ninon Gonthard,Maureen,Intern,14,313
+509,ADF,30-11-2022,9:45 AM,5:10 PM,Jackie Humberstone,Paulina,Intern,16,29
+983,QA,10-12-2024,9:43 AM,5:53 PM,Luci Jefferys,Gregg,Employee,11,662
+84,Analytics & Reporting,08-11-2022,9:09 AM,5:35 PM,Nesta Loukes,Ola,Intern,4,414
+479,Software Components,02-01-2025,10:10 AM,5:47 PM,Tressa Curry,Ki,Intern,16,733
+626,Web Scraping,09-07-2023,10:24 AM,5:37 PM,Hedwig Etherson,Inna,Employee,16,356
+908,UI/UX(Figma),25-01-2024,10:18 AM,5:46 PM,Nefen Whiffen,Sonny,Intern,5,550
+743,Cloud Platforms,25-06-2023,9:43 AM,5:37 PM,Erastus Weildish,Angelica,Employee,12,64
+359,Javascript,04-11-2022,10:40 AM,5:05 PM,Melli Coggen,Staford,Intern,2,654
+638,Web Scraping,26-11-2023,10:13 AM,5:16 PM,Robina Selwood,Euell,Intern,2,362
+487,Data Warehouse,14-09-2024,10:37 AM,5:05 PM,Chad Vivash,Janet,Employee,5,640
+83,Power BI,31-05-2023,9:45 AM,5:21 PM,Hyacinthia MacNish,Riley,Intern,11,722
+333,Git & Version Control,16-11-2023,10:43 AM,5:25 PM,Holden Bruffell,Rina,Intern,3,389
+662,Typescript,26-05-2023,10:12 AM,5:17 PM,Park Wortt,Peirce,Employee,4,471
+777,SQL,03-09-2024,10:43 AM,5:43 PM,Annalee Strathearn,Ronni,Employee,13,650
+788,Web Scraping,08-09-2023,10:44 AM,5:59 PM,Gael Harden,Edi,Intern,14,218
+827,Python,15-09-2024,10:58 AM,5:12 PM,Hendrika Tapner,Cortie,Employee,1,671
+462,Software Components,02-03-2024,10:36 AM,5:06 PM,Lauri Jenner,Ferdinanda,Intern,9,814
+969,UI Path,16-07-2023,10:47 AM,5:44 PM,Tommy Biasi,Des,Intern,2,542
+909,Git & Version Control,04-10-2022,10:03 AM,5:21 PM,Cristobal Semmens,Jessica,Intern,12,458
+969,Analytics & Reporting,12-01-2023,9:53 AM,5:35 PM,Magdalen Gask,Des,Employee,13,528
+743,Web Scraping,15-03-2023,10:05 AM,5:11 PM,Christean Kerfod,Angelica,Intern,17,805
+406,Analytics & Reporting,10-01-2024,10:07 AM,5:23 PM,Trixi Denyukhin,Guillaume,Employee,16,255
+40,Python,30-06-2023,10:12 AM,5:44 PM,Trixi Hardwicke,Haskell,Employee,17,293
+59,React JS,08-12-2022,9:11 AM,5:11 PM,Bryce Schulken,Zared,Intern,13,67
+197,Power BI,14-08-2022,10:19 AM,5:52 PM,Friederike Aughtie,Maryl,Intern,9,96
+921,Data Warehouse,22-03-2023,10:19 AM,5:50 PM,Lilli Rosellini,Courtenay,Intern,10,267
+424,HTML&CSS,20-11-2022,10:14 AM,5:48 PM,Johna Yallop,Shelby,Intern,10,605
+996,Analytics & Reporting,12-10-2022,9:32 AM,5:13 PM,Wylma Faragan,Colene,Intern,2,445
+171,Git & Version Control,15-07-2023,10:58 AM,5:56 PM,Alis Canadine,Carma,Intern,5,180
+702,SQL,29-04-2021,9:18 AM,5:52 PM,Booth Holdren,Natalina,Intern,8,675
+54,HTML&CSS,27-10-2023,9:16 AM,5:28 PM,Allie Horning,Kaela,Intern,6,431
+83,Analytics & Reporting,26-12-2022,10:10 AM,5:04 PM,Rhett Bursell,Riley,Employee,6,260
+607,DBT,01-07-2024,10:08 AM,5:45 PM,Linet Gyves,Fletcher,Employee,1,541
+70,React JS,24-03-2024,10:16 AM,5:49 PM,Deloria Vlasin,Emalee,Intern,1,407
+515,Git & Version Control,01-06-2022,10:44 AM,5:27 PM,Burg Shoveller,Flinn,Intern,9,627
+957,Software Components,22-09-2023,10:32 AM,5:05 PM,Titus Scrogges,Devora,Employee,8,407
+311,Networking,09-12-2022,10:56 AM,5:20 PM,Janis Fulloway,Burk,Intern,1,679
+40,Analytics & Reporting,25-11-2023,10:48 AM,5:19 PM,Lissa Neubigin,Haskell,Intern,7,383
+613,UI/UX(Figma),08-04-2023,10:33 AM,5:01 PM,Webb Brend,Berky,Intern,10,34
+324,Networking,11-06-2022,9:13 AM,5:55 PM,Jehanna Cohan,Patricia,Intern,4,228
+841,Git & Version Control,03-06-2023,10:35 AM,5:36 PM,Nara Boardman,Jobye,Intern,14,387
+982,DBT,11-09-2022,10:27 AM,5:50 PM,Dannie Mahoney,Tait,Employee,15,859
+193,React JS,05-08-2023,9:42 AM,5:13 PM,Annalee Boldt,Gertrudis,Intern,11,600
+50,OS,16-08-2022,9:35 AM,5:04 PM,Norene Brehat,Johnette,Intern,15,76
+406,Web Scraping,15-06-2022,10:28 AM,5:11 PM,Isis Lathey,Guillaume,Employee,13,721
+396,ADF,04-10-2023,9:10 AM,5:29 PM,Rodney Jeggo,Hernando,Employee,1,249
+285,Cloud Platforms,12-01-2024,10:58 AM,5:07 PM,Maggi Kunneke,Antonietta,Intern,17,750
+260,Javascript,17-02-2024,9:36 AM,5:29 PM,Netta Shane,Kermie,Intern,2,459
+983,Git & Version Control,07-06-2021,10:53 AM,5:32 PM,Ignace Kahn,Gregg,Intern,1,625
+613,DBT,18-09-2023,10:34 AM,5:26 PM,Peri Cannaway,Berky,Employee,14,587
+171,DBT,01-02-2023,10:26 AM,5:37 PM,Veronica Fenton,Carma,Intern,7,827
+184,Analytics & Reporting,16-05-2024,10:29 AM,5:55 PM,Bibby Stopforth,Pavel,Employee,9,189
+505,DBT,11-07-2023,9:42 AM,5:34 PM,Lek Seine,Marylou,Intern,3,857
+414,SQL,20-10-2022,10:37 AM,5:44 PM,Nataniel Kleynen,Cassey,Intern,17,753
+162,Git & Version Control,30-10-2023,9:56 AM,5:24 PM,Tabitha Vango,Bax,Intern,2,7
+261,ADF,14-06-2024,9:30 AM,5:49 PM,Carlen Bann,Gilligan,Intern,10,523
+447,React JS,22-11-2023,10:01 AM,5:55 PM,Killie Sellner,Bartholomew,Intern,9,470
+299,UI/UX(Figma),23-08-2023,9:47 AM,5:26 PM,Barron Ferrierio,Sallyanne,Intern,14,290
+995,React JS,09-05-2024,10:29 AM,5:09 PM,Irita Alexandre,Loren,Intern,9,121
+81,UI Path,29-10-2022,10:54 AM,5:59 PM,Eldon Lukasen,Germain,Intern,13,727
+702,Python,15-05-2024,9:06 AM,5:27 PM,Lise Matessian,Natalina,Intern,1,763
+176,Data Warehouse,11-12-2023,10:49 AM,5:05 PM,Melisent Bartosch,Ilaire,Intern,1,176
+380,Javascript,10-06-2023,9:37 AM,5:00 PM,Mona Marran,Shane,Intern,8,246
+200,HTML&CSS,26-10-2023,10:41 AM,5:14 PM,Lyda Keri,Libbey,Employee,11,502
+908,ADF,23-07-2023,10:56 AM,5:02 PM,Steffen Bonifazio,Sonny,Employee,13,820
+463,SQL,16-06-2023,9:15 AM,5:28 PM,Birgitta Strapp,Toiboid,Intern,12,184
+197,SQL,01-05-2022,10:51 AM,5:23 PM,Susi Ervine,Maryl,Intern,5,462
+891,HTML&CSS,23-05-2023,10:23 AM,5:44 PM,Dalenna Wolfers,Winona,Intern,9,173
+889,Networking,27-02-2023,9:32 AM,5:47 PM,Aland Haggerston,Rosamund,Employee,15,263
+311,UI/UX(Figma),13-09-2022,9:32 AM,5:16 PM,Walt Radden,Burk,Intern,17,97
+908,Web Scraping,25-09-2021,9:17 AM,5:24 PM,Clive Bellon,Sonny,Employee,10,808
+224,QA,18-01-2023,10:55 AM,5:31 PM,Cobbie Hartopp,Coraline,Intern,11,847
+891,UI Path,13-03-2024,9:53 AM,5:49 PM,Dorri Duckels,Winona,Intern,13,681
+988,Typescript,23-06-2023,9:54 AM,5:56 PM,Malena Barling,Fidela,Employee,2,77
+70,UI/UX(Figma),09-09-2023,9:19 AM,5:21 PM,Vina Jillitt,Emalee,Intern,17,614
+299,QA,20-05-2022,9:06 AM,5:37 PM,Ric Pearmain,Sallyanne,Intern,9,754
+501,Javascript,26-10-2021,9:21 AM,5:27 PM,Chev O' Mahony,Paige,Intern,14,736
+788,Power BI,07-09-2022,10:14 AM,5:20 PM,Conny Grandin,Edi,Employee,9,792
+537,OS,18-05-2022,10:47 AM,5:42 PM,Elyn Karys,Devan,Employee,10,552
+638,DBT,19-08-2024,9:05 AM,5:05 PM,Etty Elstob,Euell,Intern,3,279
+674,UI Path,09-08-2023,10:51 AM,5:42 PM,Levi Merchant,Lorie,Intern,11,304
+181,SQL,28-01-2023,9:27 AM,5:13 PM,Roland Grigori,Vonni,Intern,10,29
+306,Data Warehouse,10-07-2022,9:46 AM,5:05 PM,Lyle Kyles,Andeee,Employee,1,58
+626,QA,30-07-2022,10:59 AM,5:20 PM,Betsey Busst,Inna,Intern,6,483
+611,Cloud Platforms,13-01-2023,9:10 AM,5:07 PM,Somerset Lothean,Ewen,Employee,15,199
+261,Networking,28-08-2021,9:10 AM,5:49 PM,Lauralee Nornable,Gilligan,Intern,11,579
+834,SQL,16-03-2023,10:19 AM,5:49 PM,Garrek Gronow,Bartholomeus,Intern,10,703
+79,Cloud Platforms,10-09-2023,10:06 AM,5:03 PM,Kinnie Loidl,Leonie,Intern,13,661
+497,UI Path,31-05-2021,10:41 AM,5:05 PM,Morty Byer,Mattias,Intern,9,108
+996,ADF,23-10-2022,10:54 AM,5:31 PM,Bard Brandel,Colene,Employee,17,432
+898,OS,16-12-2023,9:44 AM,5:17 PM,Creigh Horlick,Grady,Intern,17,308
+743,Power BI,27-11-2023,9:56 AM,5:43 PM,Franklyn Treffrey,Angelica,Intern,3,203
+952,Web Scraping,16-05-2023,9:18 AM,5:20 PM,Burch Drivers,Angel,Employee,11,580
+285,Javascript,06-01-2025,10:33 AM,5:28 PM,Devland Wegener,Antonietta,Employee,1,673
+411,Software Components,26-06-2023,10:19 AM,5:28 PM,Toddy Coughlan,Moss,Employee,12,321
+613,React JS,30-04-2022,10:15 AM,5:59 PM,Gerri Meddows,Berky,Intern,5,530
+32,Analytics & Reporting,24-05-2023,9:20 AM,5:56 PM,Adair Lankham,Kristo,Intern,6,578
+891,OS,06-12-2024,9:49 AM,5:12 PM,Rockie Ketton,Winona,Intern,17,566
+652,QA,05-01-2023,10:34 AM,5:52 PM,Manya Shelbourne,Jourdan,Intern,10,432
+155,UI Path,25-08-2023,9:13 AM,5:31 PM,Coriss Baskerfield,Kyla,Intern,4,448
+501,Javascript,29-04-2022,9:49 AM,5:54 PM,Una Atherley,Paige,Intern,11,530
+493,Git & Version Control,12-07-2023,10:42 AM,5:56 PM,Rosamond Richardeau,Radcliffe,Employee,11,392
+50,HTML&CSS,23-01-2025,9:56 AM,5:16 PM,Sheba Frankcombe,Johnette,Employee,5,241
+162,Networking,31-01-2024,10:40 AM,5:42 PM,Rosemary Paxton,Bax,Intern,6,669
+514,QA,25-06-2022,9:08 AM,5:47 PM,Orella Buttle,Vevay,Intern,15,567
+777,Data Warehouse,27-07-2024,10:51 AM,5:41 PM,Jo-ann Barden,Ronni,Intern,6,570
+130,Software Components,28-10-2024,10:46 AM,5:05 PM,Hyacinthe Piatkowski,Junie,Employee,17,124
+479,Cloud Platforms,09-03-2024,10:12 AM,5:44 PM,Zach Yellowlea,Ki,Intern,9,773
+162,Software Components,20-01-2024,9:08 AM,5:40 PM,Malinda Huett,Bax,Intern,15,859
+447,Analytics & Reporting,04-03-2024,9:17 AM,5:58 PM,Kelila Daingerfield,Bartholomew,Intern,1,178
+873,UI/UX(Figma),13-11-2022,9:14 AM,5:54 PM,Price Tumilson,Lynde,Intern,4,454
+933,Software Components,01-02-2024,9:56 AM,5:36 PM,Vilma Peteri,Marnia,Employee,10,189
+200,Javascript,09-06-2022,9:28 AM,5:10 PM,Alfred Spong,Libbey,Intern,14,839
+285,ADF,26-03-2023,9:44 AM,5:38 PM,Bernard Hulks,Antonietta,Intern,8,854
+171,QA,24-07-2022,9:12 AM,5:07 PM,Torrance Peschke,Carma,Intern,8,750
+284,Python,21-08-2023,9:07 AM,5:19 PM,Lucky Boog,Christoforo,Intern,6,859
+130,QA,17-07-2023,9:04 AM,5:04 PM,Sigismundo Longdon,Junie,Intern,8,148
+19,UI Path,24-11-2023,9:19 AM,5:23 PM,Fran Gauche,Nils,Intern,10,477
+677,UI/UX(Figma),01-10-2023,9:09 AM,5:49 PM,Lesli Folomkin,Ricky,Intern,14,497
+19,Cloud Platforms,27-05-2022,9:11 AM,5:17 PM,Mariellen Wegman,Nils,Employee,13,588
+396,UI/UX(Figma),09-11-2023,10:09 AM,5:23 PM,Cthrine Marriot,Hernando,Employee,3,483
+505,SQL,02-10-2024,9:21 AM,5:04 PM,Rick Main,Marylou,Intern,12,38
+506,Software Components,31-08-2022,9:34 AM,5:55 PM,Astra Rebbeck,Hunfredo,Intern,7,315
+181,SQL,03-11-2023,9:21 AM,5:37 PM,Merla Symcoxe,Vonni,Intern,11,801
+702,Software Components,31-10-2024,9:10 AM,5:26 PM,Nathanael Stickney,Natalina,Intern,4,539
+652,Power BI,08-08-2024,9:55 AM,5:29 PM,Maurie Hurley,Jourdan,Intern,17,83
+509,SQL,13-12-2023,10:43 AM,5:24 PM,Allin Croot,Paulina,Intern,11,670
+380,React JS,21-01-2023,9:39 AM,5:46 PM,Fidelity Boulden,Shane,Intern,5,111
+380,Data Warehouse,05-03-2024,10:26 AM,5:11 PM,Hunt Corner,Shane,Employee,15,413
+506,ADF,26-01-2024,10:47 AM,5:53 PM,Horacio Maxwell,Hunfredo,Intern,11,149
+645,UI/UX(Figma),18-03-2021,9:58 AM,5:14 PM,Kory Leetham,Evelin,Intern,5,307
+672,OS,04-12-2022,9:54 AM,5:45 PM,Ainsley Bezants,Chere,Intern,10,52
+821,Software Components,16-10-2023,10:05 AM,5:13 PM,Poul Tankus,Jackqueline,Employee,15,813
+626,Analytics & Reporting,24-07-2021,10:40 AM,5:16 PM,Muffin Lejeune,Inna,Intern,11,249
+925,Data Warehouse,18-01-2024,9:06 AM,5:29 PM,Augusta Eliasson,Audrye,Intern,12,164
+925,UI/UX(Figma),23-11-2022,10:10 AM,5:59 PM,Mandie Peaseman,Audrye,Intern,15,848
+702,UI Path,19-04-2022,9:36 AM,5:52 PM,Lorant Beslier,Natalina,Intern,2,138
+899,Cloud Platforms,10-08-2022,10:45 AM,5:04 PM,Marie Danelut,Fergus,Intern,10,557
+391,Git & Version Control,10-10-2022,9:48 AM,5:25 PM,Sallyann Ouldcott,Frasco,Employee,5,41
+317,ADF,23-07-2022,9:43 AM,5:01 PM,Bertram Vine,Steffie,Employee,9,274
+890,Web Scraping,06-11-2023,10:33 AM,5:03 PM,Waldon Woodhead,Stephana,Employee,4,71
+284,Web Scraping,18-02-2023,10:23 AM,5:48 PM,Bordy Bonnaire,Christoforo,Intern,12,816
+439,Power BI,10-06-2022,9:27 AM,5:50 PM,Oona Timperley,Bertrando,Intern,17,2
+299,UI Path,17-12-2022,10:31 AM,5:09 PM,Lyn Huc,Sallyanne,Employee,11,319
+898,Git & Version Control,10-03-2024,9:39 AM,5:04 PM,Naoma Crowth,Grady,Intern,13,532
+391,React JS,09-02-2023,9:33 AM,5:32 PM,Tarra McBrearty,Frasco,Intern,16,658
+775,Git & Version Control,18-05-2024,10:12 AM,5:21 PM,Tadeo Balm,Elisabetta,Intern,12,74
+479,Cloud Platforms,10-02-2024,10:47 AM,5:24 PM,Thom Langton,Ki,Employee,3,595
+607,SQL,19-01-2023,9:11 AM,5:43 PM,Vikki Treadway,Fletcher,Intern,5,651
+317,OS,13-04-2023,10:51 AM,5:42 PM,Marian Sturmey,Steffie,Intern,10,247
+171,HTML&CSS,23-04-2024,10:26 AM,5:04 PM,Lanie Denge,Carma,Intern,10,395
+75,Cloud Platforms,30-06-2022,10:29 AM,5:49 PM,Archy McEvoy,Jaime,Intern,1,370
+942,Data Warehouse,19-07-2023,10:20 AM,5:53 PM,Gusella Sefton,Haskell,Employee,14,694
+969,Git & Version Control,10-11-2022,10:37 AM,5:22 PM,Maggee Meuse,Des,Employee,15,480
+942,DBT,08-10-2021,10:31 AM,5:34 PM,Briny Crumley,Haskell,Intern,6,214
+463,OS,13-11-2023,9:58 AM,5:29 PM,Jermayne Scholling,Toiboid,Intern,9,557
+988,Power BI,26-03-2021,9:28 AM,5:26 PM,Mildred O'Cleary,Fidela,Intern,14,741
+130,React JS,22-04-2022,10:10 AM,5:29 PM,Kimberly Ilyuchyov,Junie,Intern,6,733
+533,UI/UX(Figma),30-03-2024,10:28 AM,5:38 PM,Alikee McCuis,Gretal,Intern,6,73
+272,Cloud Platforms,03-03-2023,9:57 AM,5:33 PM,Sim Asquith,Michaelina,Intern,11,412
+116,UI Path,23-04-2022,10:17 AM,5:02 PM,Hayes Burde,Eugenia,Intern,13,432
+447,Web Scraping,05-07-2023,10:58 AM,5:30 PM,Charlton Medendorp,Bartholomew,Intern,4,843
+116,HTML&CSS,11-01-2025,10:11 AM,5:54 PM,Corliss Wong,Eugenia,Intern,7,733
+943,Power BI,12-09-2023,9:42 AM,5:53 PM,Richard Spears,Traci,Intern,3,528
+889,Cloud Platforms,16-03-2021,10:28 AM,5:40 PM,Abraham Ethington,Rosamund,Intern,8,764
+221,SQL,25-10-2022,9:59 AM,5:14 PM,Terza Deniset,Matias,Intern,4,511
+19,Analytics & Reporting,14-04-2023,9:08 AM,5:53 PM,Alayne Kempshall,Nils,Employee,13,279
+462,DBT,04-03-2023,10:55 AM,5:53 PM,Heidie Barks,Ferdinanda,Intern,4,251
+40,QA,03-09-2023,9:08 AM,5:01 PM,Boone Chellingworth,Haskell,Intern,14,606
+908,Analytics & Reporting,01-04-2024,9:25 AM,5:31 PM,Matilde Albisser,Sonny,Intern,15,148
+181,Analytics & Reporting,03-10-2021,10:34 AM,5:38 PM,Claude Bleasdale,Vonni,Intern,4,743
+50,DBT,19-09-2022,10:12 AM,5:02 PM,Merrilee Comiskey,Johnette,Intern,15,328
+775,OS,21-01-2024,10:59 AM,5:08 PM,Diana Meardon,Elisabetta,Intern,1,534
+463,Software Components,11-04-2023,10:08 AM,5:20 PM,Lauretta Jocelyn,Toiboid,Employee,4,841
+380,React JS,18-06-2022,10:26 AM,5:55 PM,Gwenora Greatbanks,Shane,Intern,11,133
+933,UI Path,28-10-2022,10:38 AM,5:33 PM,Barr Wollard,Marnia,Employee,17,381
+411,SQL,15-04-2024,9:03 AM,5:49 PM,Joshua Gurling,Moss,Employee,3,771
+461,Networking,24-10-2024,10:57 AM,5:49 PM,Meyer Doxey,Antone,Intern,17,507
+497,UI Path,22-03-2024,10:27 AM,5:06 PM,Ilka Gookes,Mattias,Intern,4,248
+182,UI Path,18-06-2023,9:13 AM,5:11 PM,Missy Kulver,Wade,Intern,12,685
+925,Typescript,23-02-2024,10:57 AM,5:11 PM,Nanete Godsal,Audrye,Intern,15,115
+232,OS,18-07-2022,10:57 AM,5:16 PM,Freddie Joynes,Haroun,Intern,5,386
+54,Software Components,17-08-2023,9:42 AM,5:16 PM,Nicola Truesdale,Kaela,Intern,7,644
+556,Analytics & Reporting,13-10-2024,9:53 AM,5:03 PM,Robenia Corness,Zach,Employee,15,537
+83,Typescript,20-08-2024,10:39 AM,5:25 PM,Ortensia Reville,Riley,Intern,5,394
+797,Networking,14-01-2024,9:23 AM,5:50 PM,Mattheus Stanmer,Belle,Employee,8,735
+447,Typescript,21-07-2021,10:26 AM,5:11 PM,Olimpia Calltone,Bartholomew,Employee,1,611
+306,QA,07-09-2023,10:28 AM,5:53 PM,Court Howen,Andeee,Intern,3,575
+232,Networking,17-08-2024,10:04 AM,5:12 PM,Constantia Skiplorne,Haroun,Intern,1,446
+423,React JS,13-08-2023,10:41 AM,5:12 PM,Heriberto Clappison,Mildrid,Employee,14,152
+260,OS,05-11-2022,10:44 AM,5:36 PM,Collie Whitsun,Kermie,Intern,5,658
+834,Web Scraping,11-02-2024,9:57 AM,5:42 PM,Shermy Dods,Bartholomeus,Intern,4,508
+933,Networking,05-04-2023,9:34 AM,5:47 PM,Nilson Stanex,Marnia,Employee,2,277
+834,UI Path,10-07-2021,9:07 AM,5:35 PM,Andriette Betts,Bartholomeus,Intern,9,133
+743,ADF,28-11-2023,9:59 AM,5:00 PM,Shanan L'Amie,Angelica,Employee,4,507
+652,OS,29-06-2023,9:37 AM,5:29 PM,Augusto Heitz,Jourdan,Intern,14,693
+224,UI Path,10-05-2022,10:37 AM,5:20 PM,Meade Hutson,Coraline,Employee,1,50
+443,Software Components,12-02-2023,9:08 AM,5:03 PM,Ive Sterzaker,Elayne,Intern,12,151
+933,Networking,11-05-2023,9:33 AM,5:32 PM,Wilburt Wickes,Marnia,Intern,12,831
+908,HTML&CSS,11-02-2023,9:56 AM,5:04 PM,Hamil Powrie,Sonny,Employee,6,451
+320,ADF,03-05-2023,10:16 AM,5:30 PM,Leila Hutt,Karel,Intern,15,134
+171,ADF,03-02-2024,9:19 AM,5:47 PM,Rog Danett,Carma,Intern,6,206
+55,Javascript,27-02-2024,9:01 AM,5:40 PM,Ollie Corey,Nicky,Intern,13,750
+158,Networking,02-10-2023,10:05 AM,5:28 PM,Herold Bushill,Filberto,Employee,16,275
+652,QA,20-11-2021,9:58 AM,5:27 PM,Freida Scholtz,Jourdan,Intern,11,727
+792,QA,27-12-2023,10:15 AM,5:42 PM,Hi Wasielewicz,Alexa,Intern,15,13
+613,Git & Version Control,23-10-2023,9:05 AM,5:37 PM,Virgilio Satyford,Berky,Intern,10,477
+506,OS,20-05-2023,10:51 AM,5:17 PM,Egbert Evers,Hunfredo,Intern,9,677
+674,Web Scraping,12-06-2021,10:33 AM,5:16 PM,Noni Winscomb,Lorie,Intern,4,302
+200,Software Components,09-06-2023,9:40 AM,5:22 PM,Gunner Jerome,Libbey,Intern,12,820
+449,React JS,11-01-2023,9:20 AM,5:30 PM,Gwendolyn O'Scanlon,Stanly,Intern,6,433
+509,Networking,29-03-2025,10:15 AM,5:07 PM,Bianca Youens,Paulina,Intern,17,837
+841,Javascript,24-03-2023,9:53 AM,5:51 PM,Wilma Gunnell,Jobye,Intern,1,103
+891,OS,05-06-2022,9:19 AM,5:40 PM,Emlyn Boich,Winona,Intern,13,753
+487,OS,30-05-2023,10:25 AM,5:51 PM,Rhiamon Bru,Janet,Employee,3,442
+707,Web Scraping,24-08-2022,10:06 AM,5:38 PM,Stacie Seed,Mathe,Intern,17,632
+462,ADF,11-08-2023,10:10 AM,5:37 PM,Cecilla Stoodale,Ferdinanda,Employee,9,184
+515,Cloud Platforms,05-01-2021,9:45 AM,5:48 PM,Hollie Desantis,Flinn,Intern,10,663
+506,Typescript,28-10-2023,9:47 AM,5:41 PM,Benji Matokhnin,Hunfredo,Employee,13,599
+556,UI Path,21-07-2023,9:58 AM,5:24 PM,Gael Steely,Zach,Intern,16,422
+777,React JS,18-08-2022,9:09 AM,5:20 PM,Fan Pagon,Ronni,Intern,17,599
+626,Analytics & Reporting,18-09-2022,10:04 AM,5:52 PM,Frankie Leechman,Inna,Intern,16,384
+611,HTML&CSS,25-04-2023,9:45 AM,5:40 PM,Morty Greenhalgh,Ewen,Intern,4,266
+272,Analytics & Reporting,27-05-2023,10:44 AM,5:40 PM,Kath Chasteney,Michaelina,Intern,12,830
+474,Web Scraping,04-06-2022,10:48 AM,5:10 PM,Hally McCallion,Nonah,Employee,4,859
+873,OS,13-07-2023,10:06 AM,5:20 PM,Tammie Cristofolo,Lynde,Intern,2,189
+130,HTML&CSS,19-11-2023,9:10 AM,5:51 PM,Marian Witnall,Junie,Intern,10,571
+841,UI Path,19-02-2024,10:51 AM,5:41 PM,Dalila Bamsey,Jobye,Intern,12,758
+506,Git & Version Control,01-01-2023,9:14 AM,5:13 PM,Latrina Bickle,Hunfredo,Intern,12,414
+411,Git & Version Control,25-06-2024,9:06 AM,5:16 PM,Waylan Buzzing,Moss,Intern,17,536
+943,ADF,29-05-2023,10:53 AM,5:41 PM,Olly Crowcombe,Traci,Employee,9,148
+613,Git & Version Control,03-08-2022,10:46 AM,5:12 PM,Harland Renton,Berky,Intern,15,555
+75,Typescript,04-01-2024,9:55 AM,5:14 PM,Austin Crewe,Jaime,Intern,11,147
+797,DBT,17-10-2023,10:57 AM,5:46 PM,Rowney Northridge,Belle,Intern,11,178
+834,Cloud Platforms,13-09-2021,10:02 AM,5:10 PM,Neville Rosenthal,Bartholomeus,Intern,8,291
+221,UI Path,19-06-2024,9:52 AM,5:25 PM,Blisse Grodden,Matias,Intern,17,707
+155,Analytics & Reporting,04-12-2021,9:09 AM,5:31 PM,Jelene Phibb,Kyla,Intern,8,559
+463,Software Components,16-08-2024,10:01 AM,5:58 PM,Consalve Suddaby,Toiboid,Employee,6,372
+50,Analytics & Reporting,21-12-2023,9:16 AM,5:22 PM,Torrance Nesbeth,Johnette,Employee,17,138
+158,UI Path,18-01-2025,9:10 AM,5:08 PM,Lurleen Langhorn,Filberto,Intern,10,469
+627,UI/UX(Figma),27-06-2023,10:15 AM,5:01 PM,Justen Barrasse,Maryellen,Employee,12,664
+702,DBT,27-05-2024,9:31 AM,5:45 PM,Stephanus Deadman,Natalina,Intern,5,61
+447,QA,08-03-2024,9:34 AM,5:46 PM,Philomena Mingame,Bartholomew,Intern,13,279
+184,Analytics & Reporting,01-09-2024,9:33 AM,5:12 PM,Irvine Vaudre,Pavel,Intern,10,445
+638,Networking,27-12-2021,10:46 AM,5:12 PM,Analiese Daish,Euell,Intern,16,745
+48,Software Components,05-10-2022,9:13 AM,5:44 PM,Mayor Calbrathe,Lorenza,Employee,4,119
+962,QA,09-11-2021,9:27 AM,5:34 PM,Danice Seaborn,Jania,Intern,3,71
+176,ADF,30-06-2024,9:33 AM,5:13 PM,Odo Origan,Ilaire,Intern,14,162
+952,Software Components,20-12-2022,10:02 AM,5:34 PM,Antoni Margiotta,Angel,Employee,14,360
+672,Analytics & Reporting,18-02-2024,9:36 AM,5:17 PM,Gretta Salvage,Chere,Intern,12,661
+537,Javascript,30-05-2022,10:06 AM,5:35 PM,Tawsha Trout,Devan,Intern,12,39
+493,DBT,30-01-2021,10:04 AM,5:27 PM,Emilio Dressell,Radcliffe,Employee,4,853
+964,Git & Version Control,11-12-2024,10:24 AM,5:02 PM,Deni Korejs,Thorin,Employee,11,739
+788,Web Scraping,26-06-2022,10:00 AM,5:05 PM,Della Speechly,Edi,Employee,6,851
+411,Power BI,12-01-2025,10:18 AM,5:46 PM,Shell Daymont,Moss,Intern,5,94
+408,Power BI,28-11-2022,9:47 AM,5:51 PM,Jarrad Bertouloume,Shawnee,Intern,1,552
+908,Typescript,13-01-2024,10:24 AM,5:38 PM,Genevieve Lock,Sonny,Intern,13,453
+898,Git & Version Control,31-10-2022,10:02 AM,5:26 PM,Kristan Habens,Grady,Employee,9,415
+439,DBT,08-10-2022,10:55 AM,5:36 PM,Ricca Brookson,Bertrando,Intern,3,115
+627,React JS,01-07-2022,10:13 AM,5:40 PM,Gabbi Lemon,Maryellen,Intern,11,178
+162,HTML&CSS,21-03-2023,9:57 AM,5:15 PM,Mella Limprecht,Bax,Intern,14,455
+505,SQL,04-08-2022,9:40 AM,5:53 PM,Wilden Porrett,Marylou,Intern,11,812
+889,UI Path,28-08-2022,10:18 AM,5:14 PM,Gweneth Goligher,Rosamund,Intern,9,129
+54,HTML&CSS,19-06-2023,9:53 AM,5:37 PM,Gavra Downs,Kaela,Intern,13,471
+176,React JS,14-11-2022,10:57 AM,5:25 PM,Fairlie Mullett,Ilaire,Intern,5,307
+408,UI Path,11-09-2021,9:22 AM,5:49 PM,Ruprecht Bagley,Shawnee,Intern,3,450
+645,Typescript,26-04-2024,10:36 AM,5:28 PM,Morgan Birdsey,Evelin,Employee,8,791
+908,ADF,14-01-2023,9:58 AM,5:01 PM,Aldridge MacAless,Sonny,Employee,2,530
+556,Software Components,29-04-2024,9:00 AM,5:28 PM,Bette Kemetz,Zach,Intern,15,197
+158,React JS,20-06-2024,10:50 AM,5:25 PM,Clarence Pykerman,Filberto,Intern,13,126
+841,React JS,01-07-2023,9:22 AM,5:58 PM,Barnebas Beade,Jobye,Employee,17,250
+79,Python,11-11-2023,9:50 AM,5:39 PM,Israel Ledbury,Leonie,Intern,15,622
+889,SQL,12-06-2023,10:11 AM,5:22 PM,Lisa Falck,Rosamund,Intern,14,729
+423,Git & Version Control,26-12-2024,9:38 AM,5:19 PM,Friedrich Pettigrew,Mildrid,Intern,7,175
+443,Cloud Platforms,10-01-2021,9:12 AM,5:03 PM,Royce Jestico,Elayne,Employee,7,317
+414,ADF,19-05-2022,9:11 AM,5:29 PM,Marjorie Rojas,Cassey,Intern,17,602
+952,DBT,10-01-2023,10:18 AM,5:43 PM,Augustus Guilloud,Angel,Employee,15,500
+439,Data Warehouse,12-09-2022,9:18 AM,5:10 PM,Von Kemmish,Bertrando,Intern,12,13
+827,UI Path,03-07-2024,10:02 AM,5:37 PM,Briano Targett,Cortie,Employee,15,203
+299,React JS,14-04-2022,9:18 AM,5:40 PM,Dorothee Vallis,Sallyanne,Intern,9,327
+75,HTML&CSS,04-05-2023,9:39 AM,5:42 PM,Annabela Radnage,Jaime,Intern,5,393
+627,Software Components,30-05-2021,9:54 AM,5:04 PM,Leila Bodicam,Maryellen,Intern,9,628
+497,Python,02-06-2023,10:42 AM,5:41 PM,Lars Boosey,Mattias,Intern,8,349
+841,Data Warehouse,15-09-2023,10:42 AM,5:48 PM,Antoine Clemendet,Jobye,Intern,16,373
+497,UI Path,17-10-2022,9:27 AM,5:05 PM,Broddie Diano,Mattias,Intern,6,551
+32,Git & Version Control,13-05-2022,10:43 AM,5:37 PM,Roddie Werner,Kristo,Intern,4,477
+841,Web Scraping,27-09-2023,9:13 AM,5:26 PM,Stacee Bucke,Jobye,Employee,8,164
+364,Web Scraping,25-02-2024,10:43 AM,5:21 PM,Eduard Longbone,Carmelina,Intern,9,462
+224,HTML&CSS,01-09-2023,10:47 AM,5:16 PM,Lianne Phelps,Coraline,Intern,14,834
+423,Cloud Platforms,20-07-2022,9:05 AM,5:44 PM,Jammal Champneys,Mildrid,Intern,17,6
+260,Web Scraping,13-05-2023,10:46 AM,5:20 PM,Tiffy Attrey,Kermie,Employee,15,789
+200,Typescript,13-09-2023,10:15 AM,5:38 PM,Rockie Cavnor,Libbey,Employee,4,164
+788,DBT,29-10-2021,10:06 AM,5:48 PM,Kirsti Shatliffe,Edi,Intern,12,278
+155,Javascript,13-02-2024,9:55 AM,5:05 PM,Filippo Bartak,Kyla,Intern,14,328
+261,Data Warehouse,18-12-2022,9:20 AM,5:03 PM,Heidie Binner,Gilligan,Employee,16,127
+497,Software Components,22-06-2023,10:05 AM,5:40 PM,Brietta Ariss,Mattias,Employee,11,160
+411,Networking,04-08-2023,9:02 AM,5:28 PM,Latrena Vazquez,Moss,Intern,7,711
+408,ADF,21-08-2021,10:46 AM,5:00 PM,Osgood Noore,Shawnee,Intern,3,42
+171,Web Scraping,06-08-2023,9:39 AM,5:56 PM,Gene St. John,Carma,Employee,4,289
+908,Cloud Platforms,21-05-2023,9:31 AM,5:23 PM,Garfield Tindall,Sonny,Employee,1,470
+908,Software Components,28-03-2023,9:59 AM,5:49 PM,Benoit Kimpton,Sonny,Intern,8,622
+261,React JS,12-03-2024,9:53 AM,5:45 PM,Merci Beadles,Gilligan,Intern,15,131
+168,Cloud Platforms,28-02-2021,10:55 AM,5:44 PM,Vassili Curless,Kirstin,Intern,8,548
+181,DBT,04-03-2021,9:20 AM,5:05 PM,Lian Farans,Vonni,Intern,2,795
+40,Web Scraping,23-08-2021,10:14 AM,5:02 PM,Odette Habbeshaw,Haskell,Intern,14,750
+461,Networking,18-11-2023,10:21 AM,5:02 PM,Rickie Alderton,Antone,Intern,3,851
+788,ADF,14-07-2024,10:32 AM,5:54 PM,Cory Wayte,Edi,Employee,14,101
+645,Analytics & Reporting,09-04-2022,10:25 AM,5:56 PM,Martie Damp,Evelin,Intern,11,403
+921,HTML&CSS,25-06-2021,10:53 AM,5:24 PM,Harlie Carek,Courtenay,Intern,17,590
+232,HTML&CSS,08-10-2024,10:53 AM,5:48 PM,Billy Sisselot,Haroun,Intern,5,762
+509,OS,14-03-2023,9:06 AM,5:29 PM,Sigismundo Stairs,Paulina,Intern,14,748
+650,Git & Version Control,07-07-2021,9:22 AM,5:16 PM,Ambros Olenikov,Corrina,Intern,13,830
+707,Python,31-07-2021,10:16 AM,5:01 PM,Patrizia Trytsman,Mathe,Employee,11,770
+317,ADF,21-02-2024,9:05 AM,5:06 PM,Wilow Grimmolby,Steffie,Intern,2,230
+72,Git & Version Control,03-05-2022,10:20 AM,5:41 PM,Jillene Allso,Kurt,Intern,7,622
+607,Analytics & Reporting,30-01-2023,10:12 AM,5:44 PM,Dulcinea Flay,Fletcher,Employee,11,772
+184,Data Warehouse,02-07-2022,9:33 AM,5:34 PM,Amandi Faircloth,Pavel,Employee,17,47
+627,UI Path,31-03-2023,10:01 AM,5:29 PM,Mariya Rising,Maryellen,Intern,9,424
+514,Git & Version Control,27-08-2023,9:50 AM,5:59 PM,Ann Baskeyfield,Vevay,Intern,9,783
+54,DBT,01-09-2022,10:49 AM,5:45 PM,Lezlie Hayne,Kaela,Intern,16,713
+130,Cloud Platforms,29-05-2024,10:53 AM,5:01 PM,Carny Wyson,Junie,Intern,1,522
+184,Web Scraping,10-12-2023,9:58 AM,5:07 PM,Rockey Corey,Pavel,Intern,16,575
+868,SQL,18-03-2023,9:13 AM,5:05 PM,Ainslie Aked,Georgy,Intern,6,754
+860,React JS,05-02-2024,10:26 AM,5:50 PM,Maximo Padilla,Anastassia,Intern,14,221
+272,QA,16-01-2021,9:52 AM,5:02 PM,Cy Hyndes,Michaelina,Intern,16,144
+505,QA,16-06-2021,10:07 AM,5:26 PM,Shelden Ciubutaro,Marylou,Employee,1,481
+487,QA,28-04-2023,10:47 AM,5:42 PM,Kimbell Kimbly,Janet,Intern,8,541
+84,Networking,19-05-2023,10:56 AM,5:10 PM,Harland Abrams,Ola,Intern,7,669
+54,UI Path,11-01-2022,9:14 AM,5:35 PM,Pammie Gammack,Kaela,Intern,7,25
+677,Software Components,21-06-2023,10:23 AM,5:13 PM,Haze Lomasney,Ricky,Intern,7,602
+834,Javascript,01-04-2023,10:34 AM,5:05 PM,Bartolomeo Lovel,Bartholomeus,Intern,6,123
+873,SQL,18-01-2021,10:27 AM,5:44 PM,Jen Pygott,Lynde,Intern,13,337
+299,OS,24-10-2023,9:11 AM,5:17 PM,Kalil Crowcroft,Sallyanne,Intern,15,276
+59,Networking,06-04-2024,10:53 AM,5:17 PM,Morrie Latta,Zared,Intern,17,696
+995,HTML&CSS,24-08-2021,9:07 AM,5:25 PM,Kerk Boskell,Loren,Intern,15,772
+672,UI Path,20-04-2024,10:22 AM,5:11 PM,Emlynne Muggleton,Chere,Intern,3,611
+299,Data Warehouse,15-08-2023,9:23 AM,5:25 PM,Aurilia Mothersole,Sallyanne,Intern,15,469
+996,Web Scraping,21-10-2024,9:28 AM,5:30 PM,Arley Summerrell,Colene,Intern,12,277
+176,Typescript,29-01-2023,9:52 AM,5:35 PM,Adelaida Hartburn,Ilaire,Intern,4,123
+860,HTML&CSS,23-07-2021,10:55 AM,5:33 PM,Lexi Lewry,Anastassia,Intern,11,817
+333,UI Path,27-04-2022,9:49 AM,5:03 PM,Jerrie Ortmann,Rina,Employee,1,294
+50,Power BI,25-10-2021,10:36 AM,5:50 PM,Nady Leakner,Johnette,Intern,9,90
+447,Web Scraping,07-12-2024,9:33 AM,5:15 PM,Rozamond Choffin,Bartholomew,Intern,4,523
+184,Power BI,02-12-2023,10:22 AM,5:58 PM,Marianna Matschuk,Pavel,Intern,2,813
+988,QA,09-04-2023,10:00 AM,5:54 PM,Andrew Glowacki,Fidela,Employee,6,617
+613,Python,03-09-2021,9:44 AM,5:12 PM,Jermayne Molder,Berky,Intern,5,63
+605,Cloud Platforms,07-08-2023,10:38 AM,5:02 PM,Fancy Dyment,Manfred,Employee,3,835
+501,Networking,06-02-2023,10:14 AM,5:55 PM,Lionel Saunders,Paige,Intern,14,600
+788,Software Components,26-04-2023,9:39 AM,5:06 PM,Birch Robet,Edi,Intern,3,443
+613,Software Components,09-10-2023,9:00 AM,5:27 PM,Francis Curnucke,Berky,Intern,7,58
+48,Javascript,06-03-2024,9:20 AM,5:37 PM,Konstantin Maly,Lorenza,Employee,7,243
+72,Javascript,20-03-2024,9:08 AM,5:22 PM,Hartley Spaice,Kurt,Intern,5,132
+294,Networking,18-07-2023,10:48 AM,5:31 PM,Mommy Jellico,Gustav,Intern,9,114
+677,Web Scraping,11-09-2023,9:04 AM,5:13 PM,Lilas Betteridge,Ricky,Intern,8,80
+181,Power BI,05-05-2023,9:57 AM,5:42 PM,Nickola Garrod,Vonni,Employee,5,132
+626,Networking,12-08-2023,9:35 AM,5:30 PM,Liuka Pabel,Inna,Employee,17,309
+306,Data Warehouse,20-11-2023,10:10 AM,5:28 PM,Heida Fulloway,Andeee,Employee,9,46
+509,Power BI,05-09-2022,9:13 AM,5:48 PM,Perry Gheerhaert,Paulina,Intern,10,89
+827,Cloud Platforms,02-01-2023,10:13 AM,5:41 PM,Giusto Zellmer,Cortie,Employee,5,831
+821,Networking,21-03-2021,9:01 AM,5:06 PM,Etta Hryniewicz,Jackqueline,Intern,3,573
+909,Typescript,23-02-2023,10:01 AM,5:32 PM,Daron Muggleton,Jessica,Intern,4,767
+497,React JS,12-08-2021,9:20 AM,5:19 PM,Eustace Youell,Mattias,Intern,14,474
+943,Web Scraping,12-02-2024,10:29 AM,5:41 PM,Aubree Wimbridge,Traci,Intern,17,607
+702,Cloud Platforms,03-03-2024,10:24 AM,5:27 PM,Lorenzo Hinrichsen,Natalina,Intern,4,650
+182,ADF,24-02-2024,10:06 AM,5:40 PM,Elinor Bawle,Wade,Intern,12,204
+868,SQL,30-08-2023,9:47 AM,5:39 PM,Adelle Enochsson,Georgy,Employee,11,156
+437,UI Path,03-09-2022,9:32 AM,5:41 PM,Pascale Bancroft,Ebba,Intern,12,489
+962,SQL,12-11-2023,10:54 AM,5:42 PM,Odilia Saurin,Jania,Intern,7,630
+79,Software Components,11-04-2021,9:39 AM,5:31 PM,Saw Danielkiewicz,Leonie,Intern,8,849
+509,Web Scraping,27-03-2023,9:42 AM,5:51 PM,Clemente Brokenbrow,Paulina,Employee,8,438
+962,Javascript,11-10-2023,10:15 AM,5:51 PM,Kit Baynham,Jania,Employee,1,10
+411,DBT,25-08-2021,10:34 AM,5:40 PM,Malchy Ginty,Moss,Intern,2,92
+184,Power BI,21-05-2024,10:54 AM,5:13 PM,Philly Fawcett,Pavel,Intern,2,636
+311,SQL,22-01-2024,10:37 AM,5:46 PM,Rollo Zambonini,Burk,Employee,4,194
+405,Analytics & Reporting,04-02-2024,10:20 AM,5:58 PM,Ernesto Thurbon,Gardy,Intern,1,787
+933,UI/UX(Figma),20-09-2023,10:25 AM,5:04 PM,Randie Lorente,Marnia,Employee,8,177
+943,DBT,30-10-2024,10:26 AM,5:19 PM,Abbie Grinvalds,Traci,Intern,6,53
+406,UI Path,03-01-2021,10:30 AM,5:24 PM,Gerald Chess,Guillaume,Intern,6,532
+952,Networking,22-12-2022,9:51 AM,5:12 PM,Ashby Myles,Angel,Intern,12,530
+827,UI/UX(Figma),14-08-2023,10:52 AM,5:31 PM,Rooney Paschke,Cortie,Intern,3,280
+193,SQL,04-05-2024,10:39 AM,5:40 PM,Barb Talton,Gertrudis,Intern,7,325
+487,React JS,13-08-2024,9:49 AM,5:25 PM,Brannon Canizares,Janet,Employee,14,373
+674,Javascript,29-10-2023,9:04 AM,5:41 PM,Addy Titherington,Lorie,Intern,2,564
+324,ADF,09-12-2021,10:44 AM,5:49 PM,Hedwig Doud,Patricia,Intern,8,84
+515,SQL,27-07-2022,10:16 AM,5:27 PM,Field Gudgion,Flinn,Intern,5,356
+260,UI Path,22-05-2024,10:46 AM,5:06 PM,Hussein Gauson,Kermie,Intern,9,5
+320,Git & Version Control,22-07-2022,10:53 AM,5:14 PM,Caye Pell,Karel,Intern,11,71
+55,DBT,16-07-2022,10:47 AM,5:05 PM,Dusty MacSherry,Nicky,Intern,9,269
+311,Cloud Platforms,10-04-2024,9:00 AM,5:34 PM,Reg Witton,Burk,Intern,6,381
+54,UI Path,17-04-2022,9:13 AM,5:54 PM,Ulrika Wann,Kaela,Employee,11,591
+460,Python,18-02-2021,10:01 AM,5:07 PM,Leticia Bigby,Douglas,Intern,3,624
+652,QA,10-05-2023,9:10 AM,5:38 PM,Whitaker Teers,Jourdan,Intern,1,824
+889,Software Components,14-07-2022,10:18 AM,5:15 PM,Deeann Klampt,Rosamund,Intern,11,789
+952,Data Warehouse,24-05-2022,9:54 AM,5:56 PM,Aloysia Durant,Angel,Intern,5,704
+506,Data Warehouse,02-06-2021,10:48 AM,5:46 PM,Charley Umney,Hunfredo,Intern,8,404
+380,OS,29-06-2024,10:01 AM,5:05 PM,Harley Steenson,Shane,Intern,4,16
+32,SQL,04-02-2023,9:06 AM,5:52 PM,Gerti Grinsted,Kristo,Intern,2,417
+155,Cloud Platforms,24-05-2024,10:42 AM,5:40 PM,Patten Klaesson,Kyla,Employee,1,67
+40,HTML&CSS,25-11-2022,10:17 AM,5:12 PM,Franni Sigge,Haskell,Intern,4,283
+505,DBT,31-08-2023,10:09 AM,5:57 PM,Rhetta Monson,Marylou,Intern,6,368
+116,DBT,13-06-2022,10:07 AM,5:49 PM,Vidovic Fellman,Eugenia,Employee,12,63
+39,Power BI,26-01-2023,10:37 AM,5:20 PM,Giffie Prando,Maurene,Intern,15,790
+406,Power BI,22-07-2023,10:47 AM,5:37 PM,Marven Braybrookes,Guillaume,Employee,15,781
+556,Software Components,05-08-2022,10:26 AM,5:54 PM,Normy Blakes,Zach,Intern,8,12
+626,UI Path,10-09-2022,10:49 AM,5:15 PM,Sondra Jacquot,Inna,Intern,1,547
+176,Cloud Platforms,03-12-2023,9:35 AM,5:09 PM,Constancia Druhan,Ilaire,Employee,17,646
+320,UI/UX(Figma),01-08-2022,10:50 AM,5:25 PM,Andreas Readett,Karel,Intern,4,631
+556,QA,05-09-2023,9:37 AM,5:53 PM,Perrine Acott,Zach,Intern,4,194
+50,Cloud Platforms,07-01-2024,10:16 AM,5:35 PM,Neile Figliovanni,Johnette,Intern,14,459
+868,SQL,01-06-2023,10:17 AM,5:06 PM,Eden Patnelli,Georgy,Employee,14,367
+957,SQL,29-07-2023,10:54 AM,5:52 PM,Heall Flory,Devora,Intern,14,87
+505,OS,23-06-2022,9:41 AM,5:35 PM,Elvin Arnould,Marylou,Employee,5,722
+702,SQL,27-10-2022,9:12 AM,5:54 PM,Rica Bedford,Natalina,Employee,17,90
+995,Git & Version Control,19-02-2023,10:13 AM,5:41 PM,Thacher Burnage,Loren,Intern,8,680
+899,Cloud Platforms,24-06-2023,9:11 AM,5:48 PM,Robbie Goldspink,Fergus,Intern,16,855
+925,Git & Version Control,14-05-2021,9:21 AM,5:07 PM,Duncan Deeney,Audrye,Intern,5,464
+50,React JS,06-07-2024,10:34 AM,5:34 PM,Celka Gorgen,Johnette,Intern,17,640
+391,ADF,09-07-2022,9:55 AM,5:52 PM,Haydon Boog,Frasco,Intern,10,503
+899,ADF,23-01-2023,9:22 AM,5:44 PM,Justus Beretta,Fergus,Employee,9,337
+821,Power BI,17-11-2022,9:24 AM,5:57 PM,Duky Baytrop,Jackqueline,Intern,9,402
+983,Javascript,29-05-2022,10:29 AM,5:10 PM,Hazel Vaud,Gregg,Intern,14,386
+299,DBT,16-04-2023,10:03 AM,5:19 PM,Laura Widdop,Sallyanne,Intern,6,238
+406,UI Path,16-09-2022,9:13 AM,5:27 PM,Walther Josselsohn,Guillaume,Employee,10,470
+650,UI Path,03-07-2022,10:44 AM,5:52 PM,Von Wanjek,Corrina,Employee,11,303
+605,ADF,11-07-2022,9:28 AM,5:09 PM,Garrot Gascard,Manfred,Intern,10,618
+834,UI Path,14-07-2023,10:58 AM,5:09 PM,Ozzie Langan,Bartholomeus,Intern,14,429
+324,Data Warehouse,08-11-2021,9:47 AM,5:46 PM,Alfy Lerohan,Patricia,Intern,11,9
+116,HTML&CSS,01-06-2021,9:08 AM,5:04 PM,Mattie Wickey,Eugenia,Intern,12,427
+645,HTML&CSS,16-04-2024,10:30 AM,5:23 PM,Merell Hedley,Evelin,Employee,4,404
+70,Networking,24-07-2023,9:28 AM,5:14 PM,Ewen Heers,Emalee,Employee,1,477
+447,UI/UX(Figma),10-02-2021,9:24 AM,5:41 PM,Zaneta McCaw,Bartholomew,Intern,12,1
+72,UI Path,16-11-2024,10:37 AM,5:33 PM,Rosanna Wardrope,Kurt,Intern,1,367
+443,Git & Version Control,25-09-2022,9:37 AM,5:52 PM,Lethia Bebis,Elayne,Intern,10,793
+968,Power BI,06-06-2023,9:07 AM,5:31 PM,Chaddy Ingledow,Cindie,Intern,1,6
+84,Cloud Platforms,29-08-2024,9:36 AM,5:57 PM,Kristofer Le Marquand,Ola,Intern,8,380
+306,ADF,27-08-2022,9:24 AM,5:06 PM,Pippa Greetland,Andeee,Intern,3,506
+515,UI Path,10-05-2024,9:39 AM,5:58 PM,Berrie Dearth,Flinn,Intern,4,26
+83,Software Components,10-08-2024,9:57 AM,5:29 PM,Christine Rontree,Riley,Intern,16,497
+952,SQL,25-03-2024,10:09 AM,5:25 PM,Sara Bernucci,Angel,Intern,12,13
+891,SQL,27-07-2021,9:08 AM,5:08 PM,Dulcea Cud,Winona,Intern,11,314
+902,SQL,14-06-2022,9:48 AM,5:09 PM,Son Biscomb,Maureen,Intern,9,553
+501,Software Components,05-10-2024,9:28 AM,5:08 PM,Tito Gerrie,Paige,Employee,17,120
+81,UI/UX(Figma),18-12-2023,10:58 AM,5:59 PM,Marlin Kilshaw,Germain,Intern,8,480
+509,OS,28-05-2024,10:24 AM,5:48 PM,Chrissie Grute,Paulina,Intern,10,802
+788,UI/UX(Figma),24-04-2023,10:02 AM,5:54 PM,Felicity Lownds,Edi,Employee,7,254
+957,HTML&CSS,03-07-2021,10:06 AM,5:06 PM,Vevay McFfaden,Devora,Employee,12,513
+75,Javascript,04-06-2023,9:00 AM,5:12 PM,Sena Reardon,Jaime,Intern,10,534
+439,ADF,17-12-2023,9:29 AM,5:35 PM,Carmine Duckerin,Bertrando,Intern,17,4
+83,UI/UX(Figma),09-06-2021,10:14 AM,5:43 PM,Verney Jery,Riley,Intern,3,704
+171,OS,05-05-2022,9:49 AM,5:10 PM,Kala Fishe,Carma,Intern,2,186
+674,Analytics & Reporting,12-10-2024,10:08 AM,5:29 PM,Justino Greste,Lorie,Intern,12,829
+921,Web Scraping,18-06-2021,9:27 AM,5:47 PM,Marchelle Hubball,Courtenay,Intern,15,697
+324,Python,01-12-2022,9:45 AM,5:19 PM,Marlee Bonnett,Patricia,Intern,2,438
+364,Software Components,27-04-2023,9:28 AM,5:09 PM,Karim Sergant,Carmelina,Employee,6,451
+299,Software Components,16-04-2022,10:13 AM,5:18 PM,Wat Stendall,Sallyanne,Intern,1,332
+792,Data Warehouse,14-07-2021,9:43 AM,5:43 PM,Vilma Juszczyk,Alexa,Intern,5,394
+921,Javascript,02-08-2023,9:52 AM,5:10 PM,Winny Treagust,Courtenay,Intern,4,109
+607,Typescript,27-05-2021,10:47 AM,5:44 PM,Raeann Mingasson,Fletcher,Intern,9,355
+406,Software Components,17-09-2022,9:23 AM,5:16 PM,Andie Copyn,Guillaume,Employee,9,678
+890,OS,10-09-2024,9:42 AM,5:55 PM,Olympia Gilligan,Stephana,Intern,9,367
+184,SQL,23-01-2024,9:07 AM,5:36 PM,Bax Costall,Pavel,Employee,17,429
+221,React JS,15-12-2023,10:10 AM,5:35 PM,Roana Van Baaren,Matias,Intern,14,743
+962,Power BI,04-11-2021,9:14 AM,5:37 PM,Ralina Harler,Jania,Intern,6,34
+474,OS,13-06-2023,9:35 AM,5:18 PM,Eleanora Dingwall,Nonah,Intern,5,701
+54,Networking,02-02-2023,10:15 AM,5:13 PM,Olga Yeulet,Kaela,Employee,10,9
+505,Python,08-12-2021,10:50 AM,5:16 PM,Revkah Taaffe,Marylou,Intern,16,155
+284,Javascript,17-04-2024,10:59 AM,5:14 PM,Chastity Dowsing,Christoforo,Intern,10,430
+899,OS,12-07-2022,10:51 AM,5:54 PM,Thornie Zaniolo,Fergus,Intern,15,185
+72,UI/UX(Figma),23-06-2024,10:01 AM,5:06 PM,Ephrayim Coot,Kurt,Intern,6,136
+55,Data Warehouse,28-05-2023,10:23 AM,5:09 PM,Barry Headly,Nicky,Intern,3,786
+19,Typescript,13-06-2024,10:51 AM,5:31 PM,Dreddy Wilks,Nils,Intern,1,126
+158,Web Scraping,02-02-2024,9:20 AM,5:13 PM,Shanda Thomassen,Filberto,Intern,13,353
+964,Javascript,25-11-2021,10:58 AM,5:26 PM,Donella Toretta,Thorin,Intern,16,597
+792,SQL,29-11-2023,10:22 AM,5:03 PM,Chaim Olek,Alexa,Intern,10,855
+487,Data Warehouse,26-11-2022,10:13 AM,5:20 PM,Modesta Blazy,Janet,Intern,9,566
+320,Analytics & Reporting,07-08-2022,10:45 AM,5:58 PM,Thom Merrall,Karel,Intern,1,845
+40,Javascript,15-09-2022,10:18 AM,5:11 PM,Sallyanne Kraft,Haskell,Employee,3,614
+184,Networking,04-12-2023,9:28 AM,5:48 PM,Nonah Curley,Pavel,Intern,9,243
+55,Web Scraping,21-06-2024,9:55 AM,5:22 PM,Rodi Rawcliffe,Nicky,Intern,8,310
+193,SQL,28-09-2023,10:32 AM,5:23 PM,Alaric Durbin,Gertrudis,Intern,10,828
+925,Data Warehouse,09-01-2023,10:36 AM,5:18 PM,Padraic Croisier,Audrye,Intern,15,336
+84,Software Components,11-10-2024,9:08 AM,5:40 PM,Rhona Klimas,Ola,Employee,11,83
+59,Python,19-12-2023,9:54 AM,5:48 PM,Gram De Bernardis,Zared,Intern,7,547
+32,UI Path,19-07-2024,10:39 AM,5:53 PM,Shayne Matchell,Kristo,Employee,16,283
+677,QA,15-03-2024,10:41 AM,5:45 PM,Delphinia Waumsley,Ricky,Employee,7,630
+380,Power BI,26-08-2024,9:25 AM,5:31 PM,Arnoldo Proud,Shane,Intern,7,160
+925,QA,19-08-2023,10:00 AM,5:33 PM,Gayle Duny,Audrye,Intern,5,485
+474,QA,09-10-2024,10:24 AM,5:20 PM,Jeremiah Viggers,Nonah,Intern,10,730
+40,Power BI,12-03-2023,10:16 AM,5:20 PM,Meryl Provis,Haskell,Intern,8,448
+933,DBT,17-10-2021,10:22 AM,5:55 PM,Rani Sondland,Marnia,Intern,7,773
+285,Cloud Platforms,16-01-2023,9:44 AM,5:50 PM,Sunshine Loveitt,Antonietta,Intern,6,712
+200,Power BI,24-09-2023,10:25 AM,5:05 PM,Ailee Cassedy,Libbey,Employee,8,634
+380,UI/UX(Figma),10-04-2022,10:46 AM,5:02 PM,Theresina Perotti,Shane,Intern,16,435
+873,Power BI,23-08-2024,10:14 AM,5:03 PM,Gunner Robrose,Lynde,Employee,7,829
+650,UI Path,12-05-2022,10:59 AM,5:22 PM,Rozalie Attwill,Corrina,Intern,6,369
+556,Networking,11-05-2021,10:53 AM,5:48 PM,Kira Flowith,Zach,Intern,17,57
+613,UI/UX(Figma),05-08-2021,10:26 AM,5:55 PM,Isadore McKiddin,Berky,Intern,2,97
+933,Networking,23-04-2021,10:18 AM,5:52 PM,Elenore Strutley,Marnia,Intern,14,451
+933,UI/UX(Figma),19-11-2024,9:28 AM,5:03 PM,Sterling Cutchey,Marnia,Intern,9,286
+898,QA,18-08-2023,10:30 AM,5:39 PM,Filip Largent,Grady,Intern,10,427
+509,Git & Version Control,17-11-2023,10:50 AM,5:19 PM,Carroll Durant,Paulina,Intern,11,46
+890,Python,19-01-2024,10:24 AM,5:39 PM,Joachim Aleksich,Stephana,Intern,15,632
+424,Javascript,30-06-2021,9:35 AM,5:16 PM,Bjorn Thomassen,Shelby,Intern,16,23
+662,Git & Version Control,22-01-2023,9:32 AM,5:54 PM,Allyn Franckton,Peirce,Intern,4,157
+317,OS,30-01-2025,10:15 AM,5:18 PM,Skipper Huton,Steffie,Intern,6,19
+834,Javascript,10-08-2021,9:56 AM,5:36 PM,Liva Iskow,Bartholomeus,Intern,14,143
+70,Analytics & Reporting,17-05-2023,10:18 AM,5:35 PM,Alyce Dullard,Emalee,Intern,15,470
+240,UI/UX(Figma),05-12-2022,10:41 AM,5:44 PM,Patton Lapere,Vincent,Employee,7,591
+359,Data Warehouse,24-12-2023,9:20 AM,5:28 PM,Terrel Kimmings,Staford,Employee,16,704
+860,Typescript,30-09-2023,9:46 AM,5:03 PM,Howie Howton,Anastassia,Intern,13,524
+406,Javascript,26-07-2024,10:32 AM,5:04 PM,Marji Oury,Guillaume,Employee,9,201
+184,Web Scraping,21-12-2021,9:58 AM,5:25 PM,Raquela Carnduff,Pavel,Intern,11,717
+158,Web Scraping,28-07-2024,9:57 AM,5:40 PM,Dusty Stacey,Filberto,Employee,3,206
+437,Networking,07-12-2021,10:09 AM,5:04 PM,Jude Coppock.,Ebba,Intern,7,467
+652,SQL,04-11-2024,9:25 AM,5:38 PM,Rowe Skully,Jourdan,Intern,9,639
+55,Cloud Platforms,17-07-2021,9:22 AM,5:23 PM,Spencer Uzelli,Nicky,Intern,4,174
+79,HTML&CSS,19-07-2022,9:52 AM,5:02 PM,Nels Lewsley,Leonie,Intern,8,664
+364,Power BI,09-08-2022,10:28 AM,5:52 PM,Barth Diglin,Carmelina,Intern,11,764
+79,DBT,08-02-2024,10:11 AM,5:58 PM,Juanita Kulvear,Leonie,Intern,16,445
+908,QA,09-04-2024,10:12 AM,5:22 PM,Drucie Mackison,Sonny,Employee,15,107
+497,Data Warehouse,03-12-2021,9:58 AM,5:47 PM,Dianne Start,Mattias,Employee,13,398
+890,UI/UX(Figma),31-01-2021,10:05 AM,5:57 PM,Lorine Marishenko,Stephana,Intern,6,736
+285,UI Path,21-04-2023,9:23 AM,5:18 PM,Belvia Joncic,Antonietta,Employee,15,858
+443,UI/UX(Figma),13-02-2023,9:12 AM,5:46 PM,Gerardo Lintall,Elayne,Intern,15,522
+493,Python,04-06-2024,9:45 AM,5:26 PM,Tana Gosden,Radcliffe,Intern,14,360
+479,Web Scraping,01-01-2021,10:03 AM,5:16 PM,Mersey Dillinger,Ki,Employee,17,399
+299,Software Components,20-12-2023,10:39 AM,5:10 PM,Cathee Menis,Sallyanne,Intern,9,407
+84,React JS,04-09-2022,9:11 AM,5:22 PM,Norine D'Aguanno,Ola,Intern,10,144
+886,OS,18-06-2024,9:40 AM,5:57 PM,Annabel Mateescu,Pierre,Employee,11,685
+982,Power BI,15-02-2024,9:46 AM,5:16 PM,Halette Benoey,Tait,Intern,12,69
+556,Git & Version Control,16-03-2024,10:10 AM,5:03 PM,Bertie Lafond,Zach,Intern,15,409
+638,Cloud Platforms,21-11-2021,9:04 AM,5:52 PM,Ania McLorinan,Euell,Intern,5,63
+333,Data Warehouse,06-04-2023,10:28 AM,5:20 PM,Brooke Pietzker,Rina,Employee,1,635
+320,Python,20-05-2024,10:12 AM,5:25 PM,Abelard Celes,Karel,Intern,3,675
+873,DBT,01-03-2023,9:24 AM,5:46 PM,Karlee Wason,Lynde,Intern,14,737
+626,React JS,31-10-2021,10:08 AM,5:02 PM,Eldin Hurn,Inna,Intern,4,549
+232,Software Components,14-12-2023,9:09 AM,5:04 PM,Rock Millsom,Haroun,Intern,5,86
+983,Git & Version Control,31-05-2024,10:57 AM,5:53 PM,Elonore Danihelka,Gregg,Intern,12,439
+788,Typescript,20-07-2023,9:44 AM,5:10 PM,Ramon Handrick,Edi,Intern,12,719
+556,Power BI,29-01-2025,9:20 AM,5:08 PM,Humfried Radborne,Zach,Intern,13,155
+908,HTML&CSS,08-02-2021,9:00 AM,5:32 PM,Luce Trinkwon,Sonny,Intern,5,831
+449,Cloud Platforms,21-06-2021,9:36 AM,5:04 PM,Cyrille Hammill,Stanly,Intern,11,104
+200,Typescript,19-04-2024,9:39 AM,5:03 PM,Theresa Kopke,Libbey,Intern,5,513
+537,Web Scraping,01-03-2024,9:41 AM,5:28 PM,Adrian Rawlinson,Devan,Employee,12,561
+626,Web Scraping,09-03-2023,10:39 AM,5:02 PM,Farley Abbyss,Inna,Intern,12,757
+292,UI/UX(Figma),05-07-2024,9:11 AM,5:33 PM,Julienne McGregor,Moyna,Employee,9,131
+443,Data Warehouse,03-04-2023,9:35 AM,5:49 PM,Pepita Conahy,Elayne,Intern,3,362
+777,Analytics & Reporting,16-12-2021,9:48 AM,5:08 PM,Warde Caddick,Ronni,Employee,13,487
+982,UI/UX(Figma),22-12-2021,9:32 AM,5:20 PM,Sharon Ferro,Tait,Employee,6,846
+437,SQL,03-02-2025,10:58 AM,5:53 PM,Abbi Lovekin,Ebba,Intern,8,762
+176,DBT,28-08-2023,9:19 AM,5:47 PM,Nixie Jackling,Ilaire,Intern,5,295
+162,SQL,29-08-2023,9:26 AM,5:48 PM,Rustie Bushaway,Bax,Intern,11,722
+333,Power BI,01-05-2024,9:23 AM,5:55 PM,Dagny Franseco,Rina,Intern,11,446
