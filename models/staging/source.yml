@@ -1,0 +1,10 @@
+version: 2
+ 
+sources:
+  - name: etms
+    database: etms
+    schema: public
+    tables:
+      - name: users
+      - name: training
+      - name: feedback
